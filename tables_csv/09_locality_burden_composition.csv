@@ -1,0 +1,10 @@
+﻿Locality,Plastic %,Burden score,PVC %,PET %,PP %,HDPE/ LDPE %,PS %,Others %,Robustness
+Kamla Nehru Ridge,30.49,1.000,0.00,6.67,34.67,58.67,0.00,0.00,GREEN (small sample)
+Kashmere Gate ISBT,30.25,0.992,0.00,83.68,0.00,9.30,0.00,7.02,GREEN
+CBD Karkardooma,22.68,0.744,0.00,38.58,0.00,30.71,16.54,14.17,GREEN (small sample)
+National Museum,19.51,0.640,0.00,52.10,0.00,47.90,0.00,0.00,AMBER
+Ryan International School,19.11,0.627,0.00,19.63,0.00,43.93,36.45,0.00,RED
+DAV School,17.24,0.565,15.43,14.04,16.01,41.76,12.76,0.00,AMBER (LOO influential)
+Shakarpur,17.10,0.561,0.80,0.95,0.00,95.28,2.17,0.80,AMBER
+Remaining 51 of 58 localities: same composition file; ranked list not reprinted here.,,,,,,,,,
+Note.,"Burden score = plastic % / 30.49. PVC is scored; PET, PP, HDPE/LDPE, PS, and Others are descriptive. Small-sample sites (<10 kg): Ridge, DAV School, CBD Karkardooma, Ryan International. Robustness categories are assigned in the later robustness registry.",,,,,,,,

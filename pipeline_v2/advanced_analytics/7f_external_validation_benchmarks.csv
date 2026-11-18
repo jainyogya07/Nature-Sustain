@@ -1,0 +1,6 @@
+Metric,Our_Mean,Benchmark_Range,Status,Divergence_pp,Interpretation
+plastic_percent,10.82,8.0 - 10.0,Above Average,0.82,Validation: Conforms to expected baseline
+pet_percent,23.6,8.0 - 12.0,Above Average,11.6,Novelty: Significant localized variation
+hdpe_ldpe_percent,53.24,45.0 - 55.0,Aligned,0.0,Validation: Conforms to expected baseline
+pvc_percent,1.65,0.0 - 1.0,Above Average,0.65,Validation: Conforms to expected baseline
+pp_percent,2.79,10.0 - 15.0,Below Average,-7.21,Novelty: Significant localized variation

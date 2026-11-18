@@ -1,0 +1,4 @@
+﻿Test,What it protects against,Intervention affected
+Appearance stability (≥8/9 top-10 tests),Whether the locality remains in the recorded top-10 when weights and scaling change,Site-priority licence (GREEN if also not LOO-influential)
+Leave-one-out influence (mean displacement of remaining ranks >1.0),Effect of removing a locality on the ranking of the remaining localities,Multi-site programme; not a bar to site collection at a non-influencer
+Note.,Kashmere Gate ISBT is GREEN: 8/9 appearance and mean leave-one-out displacement 0.96 (maximum 1). DAV School is AMBER: 9/9 appearance but mean displacement 3.7 (maximum 19). The threshold mean >1.0 is the registry rule used to flag influential removals.,

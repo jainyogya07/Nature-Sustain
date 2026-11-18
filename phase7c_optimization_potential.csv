@@ -1,0 +1,5 @@
+scenario,additional_throughput_tpd,interpretation
+Headroom to 85% Optimal (Ghazipur + Tehkhand),688.4000000000001,688.4 TPD additional MSW before facilities reach 85% optimal utilization
+Headroom to 100% Physical Capacity (Ghazipur + Tehkhand),1098.0,"1098.0 TPD theoretical maximum (100% physical capacity, operation above 85% not recommended)"
+Bawana Load Reduction Needed (to 100%),167.5,167.5 TPD load reduction needed at Bawana to reach 100% design capacity
+Bawana Load Reduction Needed (to 85%),467.5,467.5 TPD load reduction needed at Bawana to reach 85% optimal utilization

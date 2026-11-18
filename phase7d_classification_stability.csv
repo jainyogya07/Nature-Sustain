@@ -1,0 +1,59 @@
+locality,class_equal,class_plastic_dominant,class_pvc_dominant,class_perturb_plastic,class_perturb_pvc,class_pca,n_classifications,most_common_class,stable
+Kamla Nehru Ridge,High,High,Moderate,High,Moderate,High,2,High,False
+Kashmere Gate ISBT,Moderate,High,Moderate,High,Moderate,Moderate,2,Moderate,False
+CBD Karkardooma,Moderate,High,Low,Moderate,Moderate,Moderate,3,Moderate,False
+National Museum,Moderate,Moderate,Low,Moderate,Low,Moderate,2,Moderate,False
+Ryan International School,Moderate,Moderate,Low,Moderate,Low,Moderate,2,Moderate,False
+Lajpat Nagar Central Market,Moderate,Moderate,Low,Moderate,Low,Moderate,2,Moderate,False
+DAV School,Very High,High,Very High,High,Very High,Very High,2,Very High,False
+Ajmal Khan Road Market,Moderate,Moderate,Low,Moderate,Low,Moderate,2,Moderate,False
+Shakarpur,Moderate,Moderate,Low,Moderate,Low,Moderate,2,Moderate,False
+Burari Sant Nagar,Moderate,Moderate,Low,Moderate,Low,Moderate,2,Moderate,False
+Videocon Cycle Market,Moderate,Moderate,Low,Moderate,Low,Moderate,2,Moderate,False
+Kamla Nagar Market,Moderate,Moderate,Low,Moderate,Low,Moderate,2,Moderate,False
+Krishna Nagar Market,Moderate,Moderate,Low,Moderate,Low,Moderate,2,Moderate,False
+Khan Market,Low,Moderate,Low,Moderate,Low,Low,2,Low,False
+Peeragarhi,Low,Moderate,Low,Moderate,Low,Low,2,Low,False
+Chanakyapuri,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,1,Moderate,True
+New Delhi Railway Station,Low,Moderate,Low,Low,Low,Low,2,Low,False
+Venktesh College,Low,Moderate,Low,Moderate,Low,Low,2,Low,False
+Rohini Sector-3,Low,Moderate,Low,Moderate,Low,Low,2,Low,False
+Miranda House & Khalsa College,Low,Moderate,Low,Low,Low,Low,2,Low,False
+Tis Hazari Court,Low,Moderate,Low,Low,Low,Low,2,Low,False
+Ghazipur Vegetable Market,Low,Moderate,Low,Low,Low,Low,2,Low,False
+Jama Masjid,Low,Moderate,Low,Low,Low,Low,2,Low,False
+Nizamuddin Railway Station,Low,Low,Low,Low,Low,Low,1,Low,True
+Chhattarpur,Moderate,Moderate,Moderate,Moderate,Moderate,Moderate,1,Moderate,True
+Jahangirpuri JJ cluster,Low,Low,Low,Low,Low,Low,1,Low,True
+G.T.B.Nagar,Low,Low,Low,Low,Low,Low,1,Low,True
+Sonia Vihar,Low,Moderate,Low,Low,Low,Low,2,Low,False
+CGO Complex,Low,Moderate,Low,Low,Low,Low,2,Low,False
+Jama Masjid Cycle Market,Low,Low,Low,Low,Low,Low,1,Low,True
+Sunder Nagar,Low,Low,Low,Low,Low,Low,1,Low,True
+Azadpur Mandi,Low,Low,Low,Low,Low,Low,1,Low,True
+Kardampuri,Low,Low,Low,Low,Low,Low,1,Low,True
+Dwarka Sector-12,Low,Low,Low,Low,Low,Low,1,Low,True
+Madhipur,Low,Low,Low,Low,Low,Low,1,Low,True
+Green Park; Hauz Khas,Low,Low,Low,Low,Low,Low,1,Low,True
+Shahdara,Low,Low,Low,Low,Low,Low,1,Low,True
+Palam,Low,Low,Low,Low,Low,Low,1,Low,True
+"Rangpuri, Mahipalpur",Low,Low,Low,Low,Low,Low,1,Low,True
+Model Town-II,Low,Low,Low,Low,Low,Low,1,Low,True
+"JJ Colony, Rajendra Park, Nangloi",Low,Low,Low,Low,Low,Low,1,Low,True
+Civil Lines,Low,Low,Low,Low,Low,Low,1,Low,True
+Red Fort,Low,Low,Low,Low,Low,Low,1,Low,True
+Punjabi Bagh,Low,Low,Low,Low,Low,Low,1,Low,True
+Trilokpuri,Low,Low,Low,Low,Low,Low,1,Low,True
+Akshardham Temple,Low,Low,Low,Low,Low,Low,1,Low,True
+Madanpur Khadar,Low,Low,Low,Low,Low,Low,1,Low,True
+Roshanpura,Low,Low,Low,Low,Low,Low,1,Low,True
+Anand Vihar,Low,Low,Low,Low,Low,Low,1,Low,True
+Mayur Vihar Phase-III,Low,Low,Low,Low,Low,Low,1,Low,True
+Vasant Kunj,Low,Low,Low,Low,Low,Low,1,Low,True
+Sunder Nagri,Low,Low,Low,Low,Low,Low,1,Low,True
+Vikaspuri,Low,Low,Low,Low,Low,Low,1,Low,True
+R.K.Puram Sector-7,Low,Low,Low,Low,Low,Low,1,Low,True
+GK-II,Low,Low,Low,Low,Low,Low,1,Low,True
+Uttam Nagar,Low,Low,Low,Low,Low,Low,1,Low,True
+Millennium Park,Moderate,Low,Moderate,Low,Moderate,Moderate,2,Moderate,False
+Okhla Mandi,Low,Low,Low,Low,Low,Low,1,Low,True

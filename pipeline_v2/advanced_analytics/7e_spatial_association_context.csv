@@ -1,0 +1,5 @@
+Metric,Context_Factor,H_Statistic,p_value,Significance
+plastic_percent,income_level,13.998,0.0029,Significant (p<0.05)
+plastic_percent,land_use_type,14.827,0.0111,Significant (p<0.05)
+pvc_percent_of_plastic,income_level,7.297,0.063,Not Significant
+pvc_percent_of_plastic,land_use_type,6.525,0.2584,Not Significant

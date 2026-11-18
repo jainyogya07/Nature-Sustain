@@ -1,0 +1,59 @@
+location,zone,income_level,land_use_type,pp_percent_of_plastic,pp_class,ecommerce_prevalence
+Kamla Nehru Ridge,Central,Other,Mixed,34.67,Very High PP,Very High E-Commerce
+Shahdara,Shahdara North,Middle,Residential,31.96,Very High PP,Very High E-Commerce
+DAV School,Shahdara North,Other,Institutional,16.01,Very High PP,Very High E-Commerce
+Vikaspuri,West,Middle,Residential,10.71,Very High PP,Very High E-Commerce
+Chanakyapuri,New Delhi,High,Residential,8.36,High PP,High E-Commerce
+GK-II,South,High,Residential,6.85,High PP,High E-Commerce
+Chhattarpur,South,Low,Residential,6.22,High PP,High E-Commerce
+Sunder Nagar,South,High,Residential,5.4,High PP,High E-Commerce
+Vasant Kunj,South West,Middle,Residential,4.95,Moderate PP,Moderate E-Commerce
+Green Park; Hauz Khas,South,Middle,Residential,4.62,Moderate PP,Moderate E-Commerce
+G.T.B.Nagar,North,Low,Residential,2.74,Moderate PP,Moderate E-Commerce
+Kamla Nagar Market,North,Other,Commercial,2.62,Moderate PP,Moderate E-Commerce
+Peeragarhi,West,High,Residential,2.56,Moderate PP,Moderate E-Commerce
+CGO Complex,South,Other,Public,2.42,Moderate PP,Moderate E-Commerce
+Khan Market,New Delhi,Other,Commercial,2.18,Moderate PP,Moderate E-Commerce
+Madhipur,West,Low,Residential,1.97,Moderate PP,Moderate E-Commerce
+Rohini Sector-3,North West,Middle,Residential,1.86,Moderate PP,Moderate E-Commerce
+Tis Hazari Court,North,Other,Institutional,1.86,Moderate PP,Moderate E-Commerce
+Palam,South West,Middle,Mixed,1.77,Moderate PP,Moderate E-Commerce
+"Rangpuri, Mahipalpur",South West,Low,Residential,1.52,Moderate PP,Moderate E-Commerce
+Dwarka Sector-12,Dwarka,High,Residential,1.52,Moderate PP,Moderate E-Commerce
+Roshanpura,South West,Low,Residential,1.4,Moderate PP,Moderate E-Commerce
+Videocon Cycle Market,Central,Other,Commercial,1.32,Moderate PP,Moderate E-Commerce
+Miranda House & Khalsa College,North,Other,Institutional,1.19,Moderate PP,Moderate E-Commerce
+Punjabi Bagh,West,High,Residential,1.02,Moderate PP,Moderate E-Commerce
+Venktesh College,South West,Other,Institutional,1.0,Moderate PP,Moderate E-Commerce
+Krishna Nagar Market,Shahdara North,Other,Commercial,0.86,Low PP,Low E-Commerce
+R.K.Puram Sector-7,South West,Middle,Residential,0.77,Low PP,Low E-Commerce
+Ajmal Khan Road Market,Central,Other,Commercial,0.68,Low PP,Low E-Commerce
+Lajpat Nagar Central Market,South,Other,Commercial,0.55,Low PP,Low E-Commerce
+Azadpur Mandi,North,Other,Commercial,0.0,Zero PP,Zero E-Commerce
+Model Town-II,North,Middle,Residential,0.0,Zero PP,Zero E-Commerce
+Kashmere Gate ISBT,North,Other,Public,0.0,Zero PP,Zero E-Commerce
+Ghazipur Vegetable Market,East,Other,Commercial,0.0,Zero PP,Zero E-Commerce
+New Delhi Railway Station,New Delhi,Other,Public,0.0,Zero PP,Zero E-Commerce
+Nizamuddin Railway Station,South East,Other,Public,0.0,Zero PP,Zero E-Commerce
+Ryan International School,Shahdara South,Other,Institutional,0.0,Zero PP,Zero E-Commerce
+Okhla Mandi,South,Other,Commercial,0.0,Zero PP,Zero E-Commerce
+"JJ Colony, Rajendra Park, Nangloi",West,Low,Residential,0.0,Zero PP,Zero E-Commerce
+National Museum,New Delhi,Other,Tourist,0.0,Zero PP,Zero E-Commerce
+Sunder Nagri,Shahdara North,Low,Residential,0.0,Zero PP,Zero E-Commerce
+Jahangirpuri JJ cluster,North,Low,Residential,0.0,Zero PP,Zero E-Commerce
+Uttam Nagar,West,Low,Residential,0.0,Zero PP,Zero E-Commerce
+Mayur Vihar Phase-III,Shahdara South,High,Residential,0.0,Zero PP,Zero E-Commerce
+Shakarpur,Shahdara North,Middle,Residential,0.0,Zero PP,Zero E-Commerce
+Trilokpuri,East,Low,Residential,0.0,Zero PP,Zero E-Commerce
+Anand Vihar,Shahdara North,High,Residential,0.0,Zero PP,Zero E-Commerce
+Kardampuri,North East,Low,Residential,0.0,Zero PP,Zero E-Commerce
+Sonia Vihar,North East,Low,Residential,0.0,Zero PP,Zero E-Commerce
+Millennium Park,Central,Other,Mixed,0.0,Zero PP,Zero E-Commerce
+Madanpur Khadar,South East,Low,Residential,0.0,Zero PP,Zero E-Commerce
+Civil Lines,North,High,Residential,0.0,Zero PP,Zero E-Commerce
+Jama Masjid Cycle Market,Central,Middle,Residential,0.0,Zero PP,Zero E-Commerce
+Burari Sant Nagar,North,Low,Residential,0.0,Zero PP,Zero E-Commerce
+Red Fort,Central,Other,Tourist,0.0,Zero PP,Zero E-Commerce
+Jama Masjid,Central,Other,Tourist,0.0,Zero PP,Zero E-Commerce
+Akshardham Temple,Shahdara South,Other,Tourist,0.0,Zero PP,Zero E-Commerce
+CBD Karkardooma,Shahdara North,Other,Mixed,0.0,Zero PP,Zero E-Commerce

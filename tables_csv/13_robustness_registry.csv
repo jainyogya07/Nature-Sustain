@@ -1,0 +1,10 @@
+﻿Locality,Top-10 hits,Survival %,LOO influence,Class
+Kamla Nehru Ridge,8/9,88.9,0.98 (max 2),GREEN
+Kashmere Gate ISBT,8/9,88.9,0.96 (max 1),GREEN
+CBD Karkardooma,8/9,88.9,0.95 (max 1),GREEN
+DAV School,9/9,100.0,3.74 (max 19),AMBER
+National Museum,7/9,77.8,--,AMBER
+Shakarpur,6/9,66.7,--,AMBER
+Ryan International School,5/9,55.6,--,RED
+Weighting mean Spearman ρ=0.893; mean top-10 overlap=83.3%; mean LOO displacement=0.55; 3 GREEN,,,,
+Note.,Hits are appearances in the recorded top-10 test (9 weighting/normalization rows). LOO influence is mean (maximum) rank displacement of the remaining localities when that name is removed. Influence is flagged when that mean exceeds 1.0; only DAV School meets that rule. GREEN/AMBER/RED are locality-priority classes only (Table 7). Three of 58 names are GREEN.,,,

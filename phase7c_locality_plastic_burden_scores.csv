@@ -1,0 +1,59 @@
+location,zone,income_level,land_use_type,plastic_percent,plastic_burden_score,burden_class
+Kamla Nehru Ridge,Central,Other,Mixed,30.49,100.0,Very High Burden
+Kashmere Gate ISBT,North,Other,Public,30.25,99.15819010873378,Very High Burden
+CBD Karkardooma,Shahdara North,Other,Mixed,22.68,72.60610312171168,High Burden
+National Museum,New Delhi,Other,Tourist,19.51,61.48719747457033,High Burden
+Ryan International School,Shahdara South,Other,Institutional,19.11,60.08418098912662,High Burden
+Lajpat Nagar Central Market,South,Other,Commercial,17.72,55.208698702209745,High Burden
+DAV School,Shahdara North,Other,Institutional,17.24,53.525078919677306,High Burden
+Ajmal Khan Road Market,Central,Other,Commercial,17.1,53.03402314977201,High Burden
+Shakarpur,Shahdara North,Middle,Residential,17.1,53.03402314977201,High Burden
+Burari Sant Nagar,North,Low,Residential,16.57,51.175026306559104,High Burden
+Videocon Cycle Market,Central,Other,Commercial,16.21,49.91231146965978,Moderate Burden
+Kamla Nagar Market,North,Other,Commercial,15.0,45.668186601192566,Moderate Burden
+Krishna Nagar Market,Shahdara North,Other,Commercial,14.84,45.10698000701508,Moderate Burden
+Khan Market,New Delhi,Other,Commercial,14.0,42.16064538758331,Moderate Burden
+Peeragarhi,West,High,Residential,13.89,41.77481585408629,Moderate Burden
+Chanakyapuri,New Delhi,High,Residential,13.33,39.81059277446511,Moderate Burden
+New Delhi Railway Station,New Delhi,Other,Public,13.23,39.45983865310418,Moderate Burden
+Venktesh College,South West,Other,Institutional,13.06,38.863556646790606,Moderate Burden
+Rohini Sector-3,North West,Middle,Residential,12.74,37.74114345843564,Moderate Burden
+Miranda House & Khalsa College,North,Other,Institutional,11.79,34.40897930550684,Moderate Burden
+Tis Hazari Court,North,Other,Institutional,11.53,33.497018589968434,Moderate Burden
+Ghazipur Vegetable Market,East,Other,Commercial,11.41,33.07611364433532,Moderate Burden
+Jama Masjid,Central,Other,Tourist,11.23,32.444756225885655,Moderate Burden
+Nizamuddin Railway Station,South East,Other,Public,11.13,32.09400210452473,Moderate Burden
+Chhattarpur,South,Low,Residential,11.08,31.91862504384427,Moderate Burden
+Jahangirpuri JJ cluster,North,Low,Residential,10.77,30.831287267625395,Moderate Burden
+G.T.B.Nagar,North,Low,Residential,10.72,30.655910206944938,Moderate Burden
+Sonia Vihar,North East,Low,Residential,10.59,30.199929849175728,Moderate Burden
+CGO Complex,South,Other,Public,10.37,29.428270782181688,Moderate Burden
+Jama Masjid Cycle Market,Central,Middle,Residential,10.19,28.796913363732024,Moderate Burden
+Sunder Nagar,South,High,Residential,10.18,28.761837951595933,Moderate Burden
+Azadpur Mandi,North,Other,Commercial,9.81,27.464047702560507,Moderate Burden
+Kardampuri,North East,Low,Residential,9.28,25.605050859347596,Moderate Burden
+Dwarka Sector-12,Dwarka,High,Residential,9.27,25.5699754472115,Moderate Burden
+Madhipur,West,Low,Residential,8.77,23.816204840406876,Low Burden
+Green Park; Hauz Khas,South,Middle,Residential,8.59,23.18484742195721,Low Burden
+Shahdara,Shahdara North,Middle,Residential,8.47,22.7639424763241,Low Burden
+Palam,South West,Middle,Mixed,8.12,21.536303051560854,Low Burden
+"Rangpuri, Mahipalpur",South West,Low,Residential,8.09,21.43107681515258,Low Burden
+Model Town-II,North,Middle,Residential,7.95,20.940021045247285,Low Burden
+"JJ Colony, Rajendra Park, Nangloi",West,Low,Residential,7.86,20.62434233602245,Low Burden
+Civil Lines,North,High,Residential,6.75,16.73097158891617,Low Burden
+Red Fort,Central,Other,Tourist,6.41,15.538407576289021,Low Burden
+Punjabi Bagh,West,High,Residential,6.02,14.170466502981407,Low Burden
+Trilokpuri,East,Low,Residential,5.63,12.8025254296738,Low Burden
+Akshardham Temple,Shahdara South,Other,Tourist,5.62,12.767450017537707,Low Burden
+Madanpur Khadar,South East,Low,Residential,5.3,11.645036829182743,Low Burden
+Roshanpura,South West,Low,Residential,4.98,10.522623640827781,Low Burden
+Anand Vihar,Shahdara North,High,Residential,4.93,10.347246580147317,Low Burden
+Mayur Vihar Phase-III,Shahdara South,High,Residential,4.68,9.470361276745,Low Burden
+Vasant Kunj,South West,Middle,Residential,4.547,9.00385829533497,Low Burden
+Sunder Nagri,Shahdara North,Low,Residential,4.3,8.137495615573483,Low Burden
+Vikaspuri,West,Middle,Residential,3.84,6.524026657313224,Low Burden
+R.K.Puram Sector-7,South West,Middle,Residential,3.24,4.4195019291476685,Low Burden
+GK-II,South,High,Residential,3.21,4.314275692739391,Low Burden
+Uttam Nagar,West,Low,Residential,2.9,3.226937916520519,Low Burden
+Millennium Park,Central,Other,Mixed,2.15,0.596282006313574,Low Burden
+Okhla Mandi,South,Other,Commercial,1.98,0.0,Low Burden

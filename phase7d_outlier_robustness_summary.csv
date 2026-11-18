@@ -1,0 +1,4 @@
+metric,value,interpretation
+Mean LOO rank displacement,0.5477918935269208,Low = robust
+Max LOO rank displacement,19.0,High sensitivity to specific outlier
+Top-10 changed scenarios,10.0,Unstable top-10

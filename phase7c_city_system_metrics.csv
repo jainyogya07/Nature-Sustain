@@ -1,0 +1,6 @@
+metric,value,unit,interpretation
+Plastic Generation,1117.0,TPD,Daily plastic waste generated in Delhi NCT
+Plastic Processing,858.0,TPD,Daily plastic waste processed
+Plastic Gap,259.0,TPD,Unprocessed plastic requiring capacity expansion
+City Population (approx),20000000.0,persons,NCT of Delhi 2022 estimate
+Per Capita Generation,0.05585,kg/person/day,Approximately 56 grams plastic per person per day

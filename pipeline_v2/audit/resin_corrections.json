@@ -1,0 +1,58 @@
+[
+  {
+    "location": "Jahangirpuri JJ cluster",
+    "fields_corrected": [
+      "pp_kg",
+      "pp_kg_per_mt",
+      "pp_percent_of_plastic"
+    ],
+    "old_values": {
+      "pp_kg": "",
+      "pp_kg_per_mt": "",
+      "pp_percent_of_plastic": ""
+    },
+    "source": "SRI PDF lines 3720-3722: 'Nil\\nNil\\nNil\\n5\\nPP' \u2014 legitimate Nil",
+    "correction_type": "nil_to_zero",
+    "confidence": 1.0
+  },
+  {
+    "location": "Trilokpuri",
+    "fields_corrected": [
+      "pp_kg",
+      "pp_kg_per_mt",
+      "pp_percent_of_plastic"
+    ],
+    "old_values": {
+      "pp_kg": "",
+      "pp_kg_per_mt": "",
+      "pp_percent_of_plastic": ""
+    },
+    "source": "SRI PDF line 4507-4508: '5\\nPP\\nNil\\nNil\\nNA' \u2014 legitimate Nil",
+    "correction_type": "nil_to_zero",
+    "confidence": 1.0
+  },
+  {
+    "location": "Kamla Nehru Ridge",
+    "fields_corrected": [
+      "pp_kg",
+      "ps_kg",
+      "ps_kg_per_mt",
+      "ps_percent_of_plastic",
+      "others_kg",
+      "others_kg_per_mt",
+      "others_percent_of_plastic"
+    ],
+    "old_values": {
+      "pp_kg": "0.26",
+      "ps_kg": "",
+      "ps_kg_per_mt": "",
+      "ps_percent_of_plastic": "",
+      "others_kg": "",
+      "others_kg_per_mt": "",
+      "others_percent_of_plastic": ""
+    },
+    "source": "SRI PDF lines 9039-9060: PP=0.260/105.69/34.67, PS=NA, Others=NA",
+    "correction_type": "extracted_from_source",
+    "confidence": 1.0
+  }
+]

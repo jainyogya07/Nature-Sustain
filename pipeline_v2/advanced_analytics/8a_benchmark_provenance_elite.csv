@@ -1,0 +1,6 @@
+Metric,Our_Mean,Benchmark_Range,Year,Geography,Methodological_Comparability,Source,Baseline_Concordance
+plastic_percent,10.82,8.0 - 10.0,2020-21,National Metro Average,Manual Physical Characterization,CPCB Annual Report on PWM,Above Baseline
+pet_percent,23.6,8.0 - 12.0,2019,Delhi NCT Baseline,Standard Municipal Sampling,NEERI Delhi MSW Characterization,Above Baseline
+hdpe_ldpe_percent,53.24,45.0 - 55.0,2019,Delhi NCT Baseline,Standard Municipal Sampling,NEERI Delhi MSW Characterization,Concordant
+pvc_percent,1.65,0.0 - 1.0,2019,Delhi NCT Baseline,Standard Municipal Sampling,NEERI Delhi MSW Characterization,Above Baseline
+pp_percent,2.79,10.0 - 15.0,2019,Delhi NCT Baseline,Standard Municipal Sampling,NEERI Delhi MSW Characterization,Below Baseline

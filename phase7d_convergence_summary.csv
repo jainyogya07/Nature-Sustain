@@ -1,0 +1,6 @@
+test,n_scenarios,mean_spearman_rho,mean_top10_overlap_pct,interpretation
+7D.1-7D.2 Weighting,6,0.8931618936294565,83.33333333333334,🟡 Moderate
+7D.3 Normalization,3,0.8474167163346964,,🟡 Moderate
+7D.4 Outlier (LOO),58,,82.75862068965517,🟢 Robust
+7D.5 Missing Data,1,1.0,100.0,🟢 Robust
+7D.6 Facility Benchmarks,4,,50.0,🟡 Moderate

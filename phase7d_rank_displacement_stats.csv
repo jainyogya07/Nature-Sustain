@@ -1,0 +1,59 @@
+locality,displacement_plastic_dominant,displacement_pvc_dominant,displacement_perturb_plastic,displacement_perturb_pvc,displacement_pca,mean_displacement,max_displacement
+Kamla Nehru Ridge,1.0,1.0,0.0,0.0,0.0,0.4,1.0
+Kashmere Gate ISBT,1.0,1.0,0.0,0.0,0.0,0.4,1.0
+CBD Karkardooma,0.0,3.0,0.0,2.0,0.0,1.0,3.0
+National Museum,1.0,11.0,1.0,2.0,0.0,3.0,11.0
+Ryan International School,2.0,13.0,2.0,5.0,0.0,4.4,13.0
+Lajpat Nagar Central Market,2.0,5.0,2.0,0.0,0.0,1.8,5.0
+DAV School,2.0,0.0,0.0,0.0,0.0,0.4,2.0
+Ajmal Khan Road Market,2.0,4.0,2.0,1.0,0.0,1.8,4.0
+Shakarpur,2.0,2.0,2.0,1.0,0.0,1.4,2.0
+Burari Sant Nagar,2.0,2.0,2.0,2.0,0.0,1.6,2.0
+Videocon Cycle Market,3.0,4.0,2.0,0.0,0.0,1.8,4.0
+Kamla Nagar Market,2.0,10.0,2.0,1.0,0.0,3.0,10.0
+Krishna Nagar Market,2.0,11.0,2.0,1.0,0.0,3.2,11.0
+Khan Market,2.0,14.0,1.0,1.0,0.0,3.6,14.0
+Peeragarhi,2.0,14.0,1.0,1.0,0.0,3.6,14.0
+Chanakyapuri,7.0,0.0,6.0,0.0,0.0,2.6,7.0
+New Delhi Railway Station,9.0,16.0,6.0,11.0,0.0,8.4,16.0
+Venktesh College,1.0,9.0,1.0,1.0,0.0,2.4,9.0
+Rohini Sector-3,3.0,13.0,3.0,3.0,0.0,4.4,13.0
+Miranda House & Khalsa College,3.0,12.0,0.0,9.0,0.0,4.8,12.0
+Tis Hazari Court,2.0,10.0,1.0,9.0,0.0,4.4,10.0
+Ghazipur Vegetable Market,1.0,9.0,0.0,0.0,0.0,2.0,9.0
+Jama Masjid,0.0,3.0,1.0,0.0,0.0,0.8,3.0
+Nizamuddin Railway Station,14.0,2.0,12.0,2.0,0.0,6.0,14.0
+Chhattarpur,4.0,7.0,2.0,6.0,0.0,3.8,7.0
+Jahangirpuri JJ cluster,1.0,6.0,0.0,3.0,0.0,2.0,6.0
+G.T.B.Nagar,3.0,7.0,1.0,7.0,0.0,3.6,7.0
+Sonia Vihar,3.0,3.0,3.0,1.0,0.0,2.0,3.0
+CGO Complex,5.0,11.0,1.0,5.0,0.0,4.4,11.0
+Jama Masjid Cycle Market,2.0,2.0,2.0,1.0,0.0,1.4,2.0
+Sunder Nagar,14.0,1.0,7.0,0.0,0.0,4.4,14.0
+Azadpur Mandi,10.0,1.0,5.0,0.0,0.0,3.2,10.0
+Kardampuri,1.0,0.0,1.0,2.0,0.0,0.8,2.0
+Dwarka Sector-12,9.0,2.0,6.0,2.0,0.0,3.8,9.0
+Madhipur,7.0,1.0,5.0,1.0,0.0,2.8,7.0
+Green Park; Hauz Khas,4.0,3.0,5.0,1.0,0.0,2.6,5.0
+Shahdara,2.0,0.0,3.0,0.0,0.0,1.0,3.0
+Palam,4.0,2.0,2.0,1.0,0.0,1.8,4.0
+"Rangpuri, Mahipalpur",4.0,3.0,3.0,1.0,0.0,2.2,4.0
+Model Town-II,2.0,9.0,1.0,4.0,0.0,3.2,9.0
+"JJ Colony, Rajendra Park, Nangloi",3.0,7.0,1.0,3.0,0.0,2.8,7.0
+Civil Lines,9.0,12.0,5.0,2.0,0.0,5.6,12.0
+Red Fort,9.0,16.0,6.0,2.0,0.0,6.6,16.0
+Punjabi Bagh,0.0,1.0,0.0,1.0,0.0,0.4,1.0
+Trilokpuri,8.0,21.0,8.0,4.0,0.0,8.2,21.0
+Akshardham Temple,2.0,0.0,1.0,0.0,0.0,0.6,2.0
+Madanpur Khadar,0.0,1.0,0.0,1.0,0.0,0.4,1.0
+Roshanpura,0.0,0.0,1.0,0.0,0.0,0.2,1.0
+Anand Vihar,8.0,27.0,8.0,11.0,0.0,10.8,27.0
+Mayur Vihar Phase-III,7.0,27.0,8.0,11.0,0.0,10.6,27.0
+Vasant Kunj,1.0,0.0,0.0,0.0,0.0,0.2,1.0
+Sunder Nagri,12.0,28.0,11.0,13.0,0.0,12.8,28.0
+Vikaspuri,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+R.K.Puram Sector-7,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+GK-II,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Uttam Nagar,3.0,4.0,2.0,2.0,0.0,2.2,4.0
+Millennium Park,33.0,5.0,13.0,3.0,0.0,10.8,33.0
+Okhla Mandi,0.0,0.0,0.0,0.0,0.0,0.0,0.0

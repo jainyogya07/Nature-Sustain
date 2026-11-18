@@ -1,0 +1,5 @@
+scenario,action,capacity_impact_tpd,cost_implication,implementation_complexity
+Scenario A: Optimize Existing,Increase Ghazipur to 85% + Tehkhand to 85%,+688.4 TPD,Low (operational adjustment),Medium (waste routing logistics)
+Scenario B: Rebalance Bawana,Divert 300 TPD from Bawana to Ghazipur/Tehkhand,0 (reallocation),Very Low,High (municipal coordination)
+Scenario C: Build New WTE,Construct 500 TPD new plant,+500 TPD,Very High (CapEx),Very High (3-5 years timeline)
+Scenario D: Hybrid,Optimize existing (Scenario A) + Small new plant (200 TPD),+888.4 TPD,Medium-High,High

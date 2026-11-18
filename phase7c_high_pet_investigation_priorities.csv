@@ -1,0 +1,16 @@
+location,zone,income_level,land_use_type,pet_percent_of_plastic,pet_class,recyclability_potential,investigation_priority,investigation_rationale
+Akshardham Temple,Shahdara South,Other,Tourist,100.0,Very High PET,Very High Potential,1,High PET prevalence - assess MRF access and recovery effectiveness
+Kashmere Gate ISBT,North,Other,Public,83.68,Very High PET,Very High Potential,2,High PET prevalence - assess MRF access and recovery effectiveness
+Nizamuddin Railway Station,South East,Other,Public,63.3,Very High PET,Very High Potential,3,High PET prevalence - assess MRF access and recovery effectiveness
+New Delhi Railway Station,New Delhi,Other,Public,62.07,Very High PET,Very High Potential,4,High PET prevalence - assess MRF access and recovery effectiveness
+R.K.Puram Sector-7,South West,Middle,Residential,53.35,Very High PET,Very High Potential,5,High PET prevalence - assess MRF access and recovery effectiveness
+National Museum,New Delhi,Other,Tourist,52.1,Very High PET,Very High Potential,6,High PET prevalence - assess MRF access and recovery effectiveness
+Okhla Mandi,South,Other,Commercial,44.53,Very High PET,Very High Potential,7,High PET prevalence - assess MRF access and recovery effectiveness
+Punjabi Bagh,West,High,Residential,42.19,Very High PET,Very High Potential,8,High PET prevalence - assess MRF access and recovery effectiveness
+Uttam Nagar,West,Low,Residential,41.67,Very High PET,Very High Potential,9,High PET prevalence - assess MRF access and recovery effectiveness
+CBD Karkardooma,Shahdara North,Other,Mixed,38.58,Very High PET,Very High Potential,10,High PET prevalence - assess MRF access and recovery effectiveness
+Chhattarpur,South,Low,Residential,33.31,Very High PET,Very High Potential,11,High PET prevalence - assess MRF access and recovery effectiveness
+Kamla Nagar Market,North,Other,Commercial,32.52,Very High PET,Very High Potential,12,High PET prevalence - assess MRF access and recovery effectiveness
+Madanpur Khadar,South East,Low,Residential,30.84,Very High PET,Very High Potential,13,High PET prevalence - assess MRF access and recovery effectiveness
+Khan Market,New Delhi,Other,Commercial,30.45,Very High PET,Very High Potential,14,High PET prevalence - assess MRF access and recovery effectiveness
+Peeragarhi,West,High,Residential,29.27,Very High PET,Very High Potential,15,High PET prevalence - assess MRF access and recovery effectiveness

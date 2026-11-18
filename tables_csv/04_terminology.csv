@@ -1,0 +1,13 @@
+﻿Term,Meaning as used in this manuscript
+Plastic burden indicator (scored),Locality plastic % and its 0–1 normalized burden score (Kamla Nehru Ridge = 1.000 within N=58).
+PVC problematic-material indicator (scored),"Locality PVC %; higher values indicate higher problematic-material burden, scored only where the underlying data are validated."
+PET composition indicator (descriptive),"Locality PET %, read as PET prevalence relevant to recovery assessment, never as realized recycling, material quality, or collection efficiency, and never scored as a circularity outcome."
+PP composition indicator (descriptive),"Locality PP %, read as packaging prevalence context. E-commerce relevance is interpretive, not directly measured, and PP is not scored as a performance outcome."
+"HDPE/LDPE, PS, Others (descriptive)",Compositional shares reported for completeness; not independently scored.
+City plastic processing performance indicator,"Processed/generated plastic tonnage ratio at Delhi NCT scale (two recorded TPD figures); a ledger ratio, not a statistical estimate."
+WTE infrastructure utilization,Processed/designed-capacity ratio per facility (4 facilities; March 2025 census snapshot).
+Spatial context,"Zone, ward, land use, and local cluster classification per locality, confined to the Delhi NCT study area."
+Robust intervention priority,"A locality whose recorded class is GREEN (Section 5.4). Immediate collection spend is licensed only for those names. Robustness is a gate and a classification, not an additional score."
+Typed intervention licence,"A decision permission whose spatial and operational scope matches the evidence object that supports it: site, zone, facility, city investigation, or later optimization (Table 6)."
+Evidence-scale mismatch,"Use of an observation generated at one analytical unit, geographic extent, temporal window, denominator, or system boundary to justify a decision at another level without demonstrating that the inference is transferable (Table 5)."
+Licensed intervention,"An action that operates at the same decision scale as the supporting evidence, states its uncertainty, and does not require an unmeasured causal or operational assumption (Table 6)."

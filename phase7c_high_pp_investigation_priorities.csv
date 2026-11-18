@@ -1,0 +1,11 @@
+location,zone,income_level,land_use_type,pp_percent_of_plastic,pp_class,ecommerce_prevalence,investigation_priority,investigation_rationale
+Kamla Nehru Ridge,Central,Other,Mixed,34.67,Very High PP,Very High E-Commerce,1,High PP prevalence - assess e-commerce EPR compliance
+Shahdara,Shahdara North,Middle,Residential,31.96,Very High PP,Very High E-Commerce,2,High PP prevalence - assess e-commerce EPR compliance
+DAV School,Shahdara North,Other,Institutional,16.01,Very High PP,Very High E-Commerce,3,High PP prevalence - assess e-commerce EPR compliance
+Vikaspuri,West,Middle,Residential,10.71,Very High PP,Very High E-Commerce,4,High PP prevalence - assess e-commerce EPR compliance
+Chanakyapuri,New Delhi,High,Residential,8.36,High PP,High E-Commerce,5,High PP prevalence - assess e-commerce EPR compliance
+GK-II,South,High,Residential,6.85,High PP,High E-Commerce,6,High PP prevalence - assess e-commerce EPR compliance
+Chhattarpur,South,Low,Residential,6.22,High PP,High E-Commerce,7,High PP prevalence - assess e-commerce EPR compliance
+Sunder Nagar,South,High,Residential,5.4,High PP,High E-Commerce,8,High PP prevalence - assess e-commerce EPR compliance
+Vasant Kunj,South West,Middle,Residential,4.95,Moderate PP,Moderate E-Commerce,9,High PP prevalence - assess e-commerce EPR compliance
+Green Park; Hauz Khas,South,Middle,Residential,4.62,Moderate PP,Moderate E-Commerce,10,High PP prevalence - assess e-commerce EPR compliance

@@ -1,0 +1,59 @@
+location,lat_raw,lon_raw,lat_decimal,lon_decimal,coordinate_status,coordinate_confidence,coordinate_note
+Model Town-II,28°42’36.9”N,77°11’31.4”E,28.7,77.183333,field_survey,0.95,dms_parsed: dms_no_seconds
+Burari Sant Nagar,28°44’38.3”N,77°11’51.6”E,28.733333,77.183333,field_survey,0.95,dms_parsed: dms_no_seconds
+Jahangirpuri JJ cluster,28°43’39.2”N,77°10’36.2”E,28.716667,77.166667,field_survey,0.95,dms_parsed: dms_no_seconds
+GK-II,28°32’7.0”N,77°14’11.7”E,28.533333,77.233333,field_survey,0.95,dms_parsed: dms_no_seconds
+Vasant Kunj,28°31’35.4”N,77°08’48.9”E,28.516667,77.133333,field_survey,0.95,dms_parsed: dms_no_seconds
+Chhattarpur,28°29’39.4”N,77°08’59.9”E,28.483333,77.133333,field_survey,0.95,dms_parsed: dms_no_seconds
+Punjabi Bagh,28°59’52.36”N,77°07’50.06”E,28.983333,77.116667,field_survey,0.95,dms_parsed: dms_no_seconds
+Vikaspuri,28°37’56.4”N,77°04’39.3”E,28.616667,77.066667,field_survey,0.95,dms_parsed: dms_no_seconds
+Uttam Nagar,28°37’07.6”N,77°04’28.4”E,28.616667,77.066667,field_survey,0.95,dms_parsed: dms_no_seconds
+Mayur Vihar Phase-III,28°36’54.85”N,77°20’16.74”E,28.6,77.333333,field_survey,0.95,dms_parsed: dms_no_seconds
+Shakarpur,28°37’3.3”N,77°16’58.8”E,28.616667,77.266667,field_survey,0.95,dms_parsed: dms_no_seconds
+Trilokpuri,28°36’07.3”N,77°18’29.9”E,28.6,77.3,field_survey,0.95,dms_parsed: dms_no_seconds
+Anand Vihar,28°39’02.5”N,77°18’16.4”E,28.65,77.3,field_survey,0.95,dms_parsed: dms_no_seconds
+Shahdara,28°40’53.3”N,77°17’30.5”E,28.666667,77.283333,field_survey,0.95,dms_parsed: dms_no_seconds
+Kardampuri,28°41’56.3”N,77°17’05.5”E,28.683333,77.283333,field_survey,0.95,dms_parsed: dms_no_seconds
+Sunder Nagri,28°41’45.1”N,77°19’20.1”E,28.683333,77.316667,field_survey,0.95,dms_parsed: dms_no_seconds
+Sonia Vihar,28°42’52.7”N,77°15’22.5”E,28.7,77.25,field_survey,0.95,dms_parsed: dms_no_seconds
+Sunder Nagar,28°36’04.7”N,77°14’29.3”E,28.6,77.233333,field_survey,0.95,dms_parsed: dms_no_seconds
+Green Park; Hauz Khas,28°33’09.4”N,77°12’10.9”E,28.55,77.2,field_survey,0.95,dms_parsed: dms_no_seconds
+Madanpur Khadar,28°32’30.2”N,77°18’24.8”E,28.533333,77.3,field_survey,0.95,dms_parsed: dms_no_seconds
+Civil Lines,28°40’20.7”N,77°13’29.9”E,28.666667,77.216667,field_survey,0.95,dms_parsed: dms_no_seconds
+Jama Masjid Cycle Market,28°39’02.1”N,77°14’10.4”E,28.65,77.233333,field_survey,0.95,dms_parsed: dms_no_seconds
+G.T.B.Nagar,28°41’43.2”N,77°12’22.6”E,28.683333,77.2,field_survey,0.95,dms_parsed: dms_no_seconds
+Chanakyapuri,28°36’8.02”N,77°11’19.3”E,28.6,77.183333,field_survey,0.95,dms_parsed: dms_no_seconds
+R.K.Puram Sector-7,28°34’12.8”N,77°10’04.8”E,28.566667,77.166667,field_survey,0.95,dms_parsed: dms_no_seconds
+"Rangpuri, Mahipalpur",28°32’03.3”N,77°07’12.0”E,28.533333,77.116667,field_survey,0.95,dms_parsed: dms_no_seconds
+Peeragarhi,28°40’21.6”N,77°06’21.0”E,28.666667,77.1,field_survey,0.95,dms_parsed: dms_no_seconds
+Rohini Sector-3,28°42’7.8”N,77°06’58.8”E,28.7,77.1,field_survey,0.95,dms_parsed: dms_no_seconds
+Madhipur,28°40’45.3”N,77°0.5’58.7”E,28.666667,77.099639,corrected,0.95,"lon_corrected: DMS '77°0.5'58.7""E' was truncated to 0.099639; full value = 77.099639"
+"JJ Colony, Rajendra Park, Nangloi",Longitudes,Figure-43: Plastic Waste at Peeragarhi,,,coordinate_error,0.0,OSM_geocoding_failed: no_results
+Dwarka Sector-12,28°35’29.4”N,77°02’42.9”E,28.583333,77.033333,field_survey,0.95,dms_parsed: dms_no_seconds
+Palam,28°35’16.9”N,77°04’58.8”E,28.583333,77.066667,field_survey,0.95,dms_parsed: dms_no_seconds
+Roshanpura,28°36’05.9”N,76°59’17.3”E,28.6,76.983333,field_survey,0.95,dms_parsed: dms_no_seconds
+Red Fort,28°39’06.3”N,77°14’22.2”E,28.65,77.233333,field_survey,0.95,dms_parsed: dms_no_seconds
+Jama Masjid,28°38’58.0”N,77°14’00.3”E,28.633333,77.233333,field_survey,0.95,dms_parsed: dms_no_seconds
+Akshardham Temple,28°36’47.4”N,77°16’34.6”E,28.6,77.266667,field_survey,0.95,dms_parsed: dms_no_seconds
+Millennium Park,28°35’49.8”N,77°15’15.8”E,28.583333,77.25,field_survey,0.95,dms_parsed: dms_no_seconds
+National Museum,28°36’42.42”N,77°13’9.12”E,28.6,77.216667,field_survey,0.95,dms_parsed: dms_no_seconds
+Ghazipur Vegetable Market,28°37’50.9”N,77°19’21.8”E,28.616667,77.316667,field_survey,0.95,dms_parsed: dms_no_seconds
+Okhla Mandi,28°33’35.3”N,77°15’41.1”E,28.55,77.25,field_survey,0.95,dms_parsed: dms_no_seconds
+Azadpur Mandi,28°42’42.86”N,77°10’20.05”E,28.7,77.166667,field_survey,0.95,dms_parsed: dms_no_seconds
+Lajpat Nagar Central Market,28°34’05.6”N,77°14’29.2”E,28.566667,77.233333,field_survey,0.95,dms_parsed: dms_no_seconds
+Khan Market,28°35’54.4”N,77°13’20.0”E,28.583333,77.216667,field_survey,0.95,dms_parsed: dms_no_seconds
+Kamla Nagar Market,28°40’41.99”N,77°12’4.38”E,28.666667,77.2,field_survey,0.95,dms_parsed: dms_no_seconds
+Krishna Nagar Market,28°39’25.98”N,77°17’25.62”E,28.65,77.283333,field_survey,0.95,dms_parsed: dms_no_seconds
+Ajmal Khan Road Market,28°39’12.58”N,77°11’21.91”E,28.65,77.183333,field_survey,0.95,dms_parsed: dms_no_seconds
+Videocon Cycle Market,28°38’43.33”N,77°12’12.53”E,28.633333,77.2,field_survey,0.95,dms_parsed: dms_no_seconds
+Kashmere Gate ISBT,28°40’09.2”N,77°13’50.2”E,28.666667,77.216667,field_survey,0.95,dms_parsed: dms_no_seconds
+New Delhi Railway Station,28°38’16.9”N,77°13’22.9”E,28.633333,77.216667,field_survey,0.95,dms_parsed: dms_no_seconds
+Nizamuddin Railway Station,28°35’28.0”N,77°15’16.9”E,28.583333,77.25,field_survey,0.95,dms_parsed: dms_no_seconds
+CGO Complex,28°35’08.5”N,77°14’12.5”E,28.583333,77.233333,field_survey,0.95,dms_parsed: dms_no_seconds
+Tis Hazari Court,28°39’57.8”N,77°12’55.1”E,28.65,77.2,field_survey,0.95,dms_parsed: dms_no_seconds
+Miranda House & Khalsa College,Longitudes,Miranda House & Khalsa College,28.692613,77.210058,geocoded_osm,0.75,"OSM_geocoded | display: Miranda House, North Campus, Civil Lines, Delhi, North Delhi, Delhi, 110007, Ind"
+Venktesh College,28°35’1.76”N,77°9’54.3”E,28.583333,77.15,field_survey,0.95,dms_parsed: dms_no_seconds
+DAV School,28°39’29.63”N,77°18’59.37”E,28.65,77.3,field_survey,0.95,dms_parsed: dms_no_seconds
+Ryan International School,28°36’54.85”N,77°20’16.74”E,28.6,77.333333,field_survey,0.95,dms_parsed: dms_no_seconds
+Kamla Nehru Ridge,28°40’54.5”N,77°12’54.7”E,28.666667,77.2,field_survey,0.95,dms_parsed: dms_no_seconds
+CBD Karkardooma,28°39’36.3”N,77°18’01.06”E,28.65,77.3,field_survey,0.95,dms_parsed: dms_no_seconds

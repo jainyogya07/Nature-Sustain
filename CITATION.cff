@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Cite the manuscript and this repository. Replace the GitHub URL with the Zenodo DOI once minted."
+title: "Evidence-linked decision architecture for circular plastic waste management in cities"
+authors:
+  - family-names: Khurana
+    given-names: Sonal
+    email: sonal.khurana@gmail.com
+    affiliation: "Vivekananda Institute of Professional Studies – Technical Campus, New Delhi"
+  - family-names: Jain
+    given-names: Yogay
+    affiliation: "Vivekananda Institute of Professional Studies – Technical Campus, New Delhi"
+repository-code: "https://github.com/jainyogya07/Nature-Sustain"
+license: MIT
+date-released: "2026-11-18"
+type: software

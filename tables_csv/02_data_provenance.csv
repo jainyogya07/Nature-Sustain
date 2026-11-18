@@ -1,0 +1,8 @@
+﻿Evidence,Unit,Period,N,Source,Role,Main limitation
+Plastic burden and resin mix,Locality,Compiled complete-resin file,58,Locality composition file,Object A: burden and prevalence,"Complete-case frame, not a probability sample; four sites <10 kg"
+Spatial association,Locality (coordinates),Same frame,58,Local Moran's I file,Object B: cluster vs isolated peak,Exploratory site-wise p; no FDR; unclassified ≠ low burden
+City plastic ledger,Delhi NCT,March and June 2025,2,"DPCC MPR Section VIII (DPCC, 2025)",Object C: processed/generated ratio,Two records; no interval; no trend
+WTE utilization,Facility,March 2025 census,4,"DPCC MPR Annexure-5 (DPCC, 2025)",Object D: utilization class and mixed-waste headroom,"Snapshot, not continuous availability; mixed-waste, not plastic"
+Priority stability,Locality rank,Specification registry,72 rows,Robustness file,Object E: GREEN/AMBER/RED gate,"Gate, not a score; mean ρ does not licence every name"
+Diversion feasibility,Origin–sink pair,"Scenario, not a timetable",--,Utilization classes + GREEN demand,Object F: constraint set,"No GPS, fleet, time windows, or costs"
+Note.,"Objects are linked sequentially, not averaged. External reports (Economic Survey, CPCB affidavit, shutdown coverage) are context, convergence, or contrast and never override these files.",,,,,

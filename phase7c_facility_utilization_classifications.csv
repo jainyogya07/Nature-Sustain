@@ -1,0 +1,5 @@
+facility,capacity_tpd_msw,processing_tpd_msw,utilization_percent,classification,spare_to_85pct_tpd,spare_to_100pct_tpd,policy_recommendation
+Okhla,1950,1867.9,95.8,High Utilization,-210.4000000000001,82.09999999999991,Near capacity - monitor for stress indicators
+Ghazipur,1300,757.3,58.3,Underutilized,347.70000000000005,542.7,Increase intake to 85% target (1105.0 TPD)
+Bawana,2000,2167.5,108.4,Over-Stressed,-467.5,-167.5,Reduce load to design capacity or below; divert to underutilized facilities
+Tehkhand,2000,1359.3,68.0,Underutilized,340.70000000000005,640.7,Increase intake to 85% target (1700.0 TPD)

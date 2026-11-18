@@ -1,0 +1,492 @@
+[
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 2,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Location' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Location",
+    "timestamp": "2026-08-15T12:50:55.362513"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 4,
+    "column": "pp_percent_of_plastic",
+    "issue_type": "MISSING_RESIN_VALUE",
+    "severity": "HIGH",
+    "description": "Missing resin composition data for: ['pp_percent_of_plastic']. Check SRI source PDF \u2014 may be legitimate Nil or extraction failure.",
+    "raw_value": "BLANK",
+    "timestamp": "2026-08-15T12:50:55.362545"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 5,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Location' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Location",
+    "timestamp": "2026-08-15T12:50:55.362553"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 6,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Location' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Location",
+    "timestamp": "2026-08-15T12:50:55.362560"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 7,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Location' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Location",
+    "timestamp": "2026-08-15T12:50:55.362567"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 8,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Location' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Location",
+    "timestamp": "2026-08-15T12:50:55.362574"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 9,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Location' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Location",
+    "timestamp": "2026-08-15T12:50:55.362580"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 10,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Location' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Location",
+    "timestamp": "2026-08-15T12:50:55.362586"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 11,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Location' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Location",
+    "timestamp": "2026-08-15T12:50:55.362593"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 12,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Location' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Location",
+    "timestamp": "2026-08-15T12:50:55.362599"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 13,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Location' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Location",
+    "timestamp": "2026-08-15T12:50:55.362605"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 13,
+    "column": "pp_percent_of_plastic",
+    "issue_type": "MISSING_RESIN_VALUE",
+    "severity": "HIGH",
+    "description": "Missing resin composition data for: ['pp_percent_of_plastic']. Check SRI source PDF \u2014 may be legitimate Nil or extraction failure.",
+    "raw_value": "BLANK",
+    "timestamp": "2026-08-15T12:50:55.362607"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 14,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Location' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Location",
+    "timestamp": "2026-08-15T12:50:55.362613"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 15,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Location' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Location",
+    "timestamp": "2026-08-15T12:50:55.362619"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 16,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Location' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Location",
+    "timestamp": "2026-08-15T12:50:55.362625"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 17,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Location' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Location",
+    "timestamp": "2026-08-15T12:50:55.362631"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 18,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Location' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Location",
+    "timestamp": "2026-08-15T12:50:55.362637"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 21,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Location' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Location",
+    "timestamp": "2026-08-15T12:50:55.362654"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 24,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Location' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Location",
+    "timestamp": "2026-08-15T12:50:55.362671"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 25,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Location' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Location",
+    "timestamp": "2026-08-15T12:50:55.362677"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 26,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Location' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Location",
+    "timestamp": "2026-08-15T12:50:55.362683"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 27,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Location' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Location",
+    "timestamp": "2026-08-15T12:50:55.362689"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 28,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Location' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Location",
+    "timestamp": "2026-08-15T12:50:55.362695"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 29,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Location' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Location",
+    "timestamp": "2026-08-15T12:50:55.362701"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 31,
+    "column": "latitude",
+    "issue_type": "CORRUPT_COORDINATE",
+    "severity": "CRITICAL",
+    "description": "Latitude field contains text, not a coordinate: 'Longitudes'",
+    "raw_value": "Longitudes",
+    "timestamp": "2026-08-15T12:50:55.362725"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 31,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Location' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Location",
+    "timestamp": "2026-08-15T12:50:55.362727"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 32,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Location' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Location",
+    "timestamp": "2026-08-15T12:50:55.362741"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 33,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Location' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Location",
+    "timestamp": "2026-08-15T12:50:55.362750"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 35,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Location' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Location",
+    "timestamp": "2026-08-15T12:50:55.362762"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 36,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Location' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Location",
+    "timestamp": "2026-08-15T12:50:55.362768"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 38,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Location' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Location",
+    "timestamp": "2026-08-15T12:50:55.362779"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 39,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Areas Description' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Areas Description",
+    "timestamp": "2026-08-15T12:50:55.362785"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 41,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Location' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Location",
+    "timestamp": "2026-08-15T12:50:55.362796"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 44,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Location' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Location",
+    "timestamp": "2026-08-15T12:50:55.362813"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 45,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Location' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Location",
+    "timestamp": "2026-08-15T12:50:55.362819"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 52,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Location' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Location",
+    "timestamp": "2026-08-15T12:50:55.362855"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 53,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Location' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Location",
+    "timestamp": "2026-08-15T12:50:55.362861"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 54,
+    "column": "latitude",
+    "issue_type": "CORRUPT_COORDINATE",
+    "severity": "CRITICAL",
+    "description": "Latitude field contains text, not a coordinate: 'Longitudes'",
+    "raw_value": "Longitudes",
+    "timestamp": "2026-08-15T12:50:55.362867"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 54,
+    "column": "longitude",
+    "issue_type": "CORRUPT_COORDINATE",
+    "severity": "CRITICAL",
+    "description": "Longitude field contains text: 'Miranda House & Khalsa College'",
+    "raw_value": "Miranda House & Khalsa College",
+    "timestamp": "2026-08-15T12:50:55.362869"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 54,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Location' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Location",
+    "timestamp": "2026-08-15T12:50:55.362870"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 55,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Location' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Location",
+    "timestamp": "2026-08-15T12:50:55.362876"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 56,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Location' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Location",
+    "timestamp": "2026-08-15T12:50:55.362882"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 57,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Table-70' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Table-70",
+    "timestamp": "2026-08-15T12:50:55.362888"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 58,
+    "column": "zone",
+    "issue_type": "PDF_ARTEFACT",
+    "severity": "HIGH",
+    "description": "Zone field contains PDF extraction artefact 'Location' \u2014 this is a column header from the PDF, not a geographic zone.",
+    "raw_value": "Location",
+    "timestamp": "2026-08-15T12:50:55.362894"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/locality_plastic_analysis.csv",
+    "row": 58,
+    "column": "ps_percent_of_plastic,others_percent_of_plastic",
+    "issue_type": "MISSING_RESIN_VALUE",
+    "severity": "HIGH",
+    "description": "Missing resin composition data for: ['ps_percent_of_plastic', 'others_percent_of_plastic']. Check SRI source PDF \u2014 may be legitimate Nil or extraction failure.",
+    "raw_value": "BLANK",
+    "timestamp": "2026-08-15T12:50:55.362896"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/facility_individual_facility.csv",
+    "row": 4,
+    "column": "utilization_percent",
+    "issue_type": "OVER_CAPACITY_OPERATION",
+    "severity": "LOW",
+    "description": "Integrated MSW Facility at Bawana: utilization=108.4% (>100%). Operating above design capacity \u2014 verified against DPCC Annexure-5. This is real data, not an error. Flag for manuscript.",
+    "raw_value": "108.4",
+    "timestamp": "2026-08-15T12:50:55.363131"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/city_baseline.csv",
+    "row": 3,
+    "column": "plastic_percent_of_msw",
+    "issue_type": "INTER_REPORT_INCONSISTENCY",
+    "severity": "MEDIUM",
+    "description": "March 2025: 9.4% vs June 2025: 9.8% \u2014 same generation (1117 TPD) but different percentages. Likely rounding difference in DPCC reports.",
+    "raw_value": "March=9.4, June=9.8",
+    "timestamp": "2026-08-15T12:50:55.363377"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/phase5c/data/city_baseline.csv",
+    "row": "ALL",
+    "column": "ALL",
+    "issue_type": "DESIGN_LIMITATION",
+    "severity": "MEDIUM",
+    "description": "Only N=2 time points (March 2025 and June 2025). City processing efficiency (76.81%) is a point estimate, not a trend. Cannot derive statistical inference from 2 observations.",
+    "raw_value": "N=2",
+    "timestamp": "2026-08-15T12:50:55.363379"
+  },
+  {
+    "source_file": "/Users/yogayjain/Downloads/circular/dpcc_documents/sri_plastic_study.txt",
+    "row": "ALL",
+    "column": "table_count",
+    "issue_type": "SOURCE_VERIFICATION",
+    "severity": "LOW",
+    "description": "SRI study source text contains 121 assessment table markers. All 58 locality records verified as real field-survey data.",
+    "raw_value": "121",
+    "timestamp": "2026-08-15T12:50:55.364197"
+  }
+]

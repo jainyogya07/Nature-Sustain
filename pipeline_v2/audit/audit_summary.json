@@ -1,0 +1,21 @@
+{
+  "audit_run_at": "2026-08-15T12:50:55.364823",
+  "total_issues": 49,
+  "by_severity": {
+    "HIGH": 42,
+    "CRITICAL": 3,
+    "LOW": 2,
+    "MEDIUM": 2
+  },
+  "by_type": {
+    "PDF_ARTEFACT": 39,
+    "MISSING_RESIN_VALUE": 3,
+    "CORRUPT_COORDINATE": 3,
+    "OVER_CAPACITY_OPERATION": 1,
+    "INTER_REPORT_INCONSISTENCY": 1,
+    "DESIGN_LIMITATION": 1,
+    "SOURCE_VERIFICATION": 1
+  },
+  "source_data_verdict": "REAL \u2014 all values trace to official government field surveys and regulatory reports",
+  "pipeline_verdict": "7 quality issues identified, all fixable. No fabrication detected."
+}

@@ -1,0 +1,10 @@
+﻿Locality,Ward,Zone,Land use,Plastic burden,Spatial statistic (local Moran's I),p,Cluster class.,Interpretation
+Kamla Nagar Market,69,North,Commercial,15.00,2.183,0.002,High–high,Strong hotspot
+Tis Hazari Court,83,North,Institutional,11.53,0.119,0.028,High–high,Strong hotspot
+Madanpur Khadar,101-S,South East,Residential,5.30,0.949,0.006,Low–low,Strong coldspot
+Dwarka Sector-12,36 & 38,Dwarka,Residential,9.27,0.228,0.028,Low–low,Strong coldspot
+Civil Lines,83,North,Residential,6.75,−2.157,0.040,Low–high,Spatial outlier
+Nizamuddin Railway Station,--,South East,Public,11.13,−0.060,0.040,High–low,Spatial outlier
+Kamla Nehru Ridge,Ridge,Central,Mixed,30.49,--,--,Not classified,Highest burden; not a LISA hotspot
+Kashmere Gate ISBT,--,North,Public,30.25,--,--,Not classified,Isolated high-burden generator
+Note.,"Spatial weights: k=5 nearest neighbours (Haversine km), inverse-distance among those neighbours, row-standardized. Local Moran's I from 999 conditional permutations; site-wise p<0.05 labelled strong. No false-discovery correction is applied across the 58 local tests; classifications are exploratory. Ajmal Khan Road Market is a marginal high–high cluster (p=0.066) and is not treated as confirmed. High-burden GREEN sites without a LISA label are isolated generators, not hotspots. Method follows ward-level MSW hotspot analysis in Kumar, Choudhary and Mathur (2026), adapted to locality plastic burden. Delhi NCT sample only.",,,,,,,

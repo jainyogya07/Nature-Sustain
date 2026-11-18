@@ -1,0 +1,59 @@
+location,zone,income_level,land_use_type,pet_percent_of_plastic,pet_class,recyclability_potential
+Akshardham Temple,Shahdara South,Other,Tourist,100.0,Very High PET,Very High Potential
+Kashmere Gate ISBT,North,Other,Public,83.68,Very High PET,Very High Potential
+Nizamuddin Railway Station,South East,Other,Public,63.3,Very High PET,Very High Potential
+New Delhi Railway Station,New Delhi,Other,Public,62.07,Very High PET,Very High Potential
+R.K.Puram Sector-7,South West,Middle,Residential,53.35,Very High PET,Very High Potential
+National Museum,New Delhi,Other,Tourist,52.1,Very High PET,Very High Potential
+Okhla Mandi,South,Other,Commercial,44.53,Very High PET,Very High Potential
+Punjabi Bagh,West,High,Residential,42.19,Very High PET,Very High Potential
+Uttam Nagar,West,Low,Residential,41.67,Very High PET,Very High Potential
+CBD Karkardooma,Shahdara North,Other,Mixed,38.58,Very High PET,Very High Potential
+Chhattarpur,South,Low,Residential,33.31,Very High PET,Very High Potential
+Kamla Nagar Market,North,Other,Commercial,32.52,Very High PET,Very High Potential
+Madanpur Khadar,South East,Low,Residential,30.84,Very High PET,Very High Potential
+Khan Market,New Delhi,Other,Commercial,30.45,Very High PET,Very High Potential
+Peeragarhi,West,High,Residential,29.27,Very High PET,Very High Potential
+Videocon Cycle Market,Central,Other,Commercial,28.75,High PET,High Potential
+Sonia Vihar,North East,Low,Residential,28.38,High PET,High Potential
+Ajmal Khan Road Market,Central,Other,Commercial,28.01,High PET,High Potential
+Miranda House & Khalsa College,North,Other,Institutional,27.82,High PET,High Potential
+Lajpat Nagar Central Market,South,Other,Commercial,27.24,High PET,High Potential
+Rohini Sector-3,North West,Middle,Residential,26.19,High PET,High Potential
+Krishna Nagar Market,Shahdara North,Other,Commercial,26.0,High PET,High Potential
+Madhipur,West,Low,Residential,25.59,High PET,High Potential
+Roshanpura,South West,Low,Residential,25.46,High PET,High Potential
+Jahangirpuri JJ cluster,North,Low,Residential,25.06,High PET,High Potential
+Sunder Nagar,South,High,Residential,24.56,High PET,High Potential
+Dwarka Sector-12,Dwarka,High,Residential,24.54,High PET,High Potential
+G.T.B.Nagar,North,Low,Residential,23.97,High PET,High Potential
+Jama Masjid Cycle Market,Central,Middle,Residential,23.92,High PET,High Potential
+Palam,South West,Middle,Mixed,23.84,Moderate PET,Moderate Potential
+Tis Hazari Court,North,Other,Institutional,21.13,Moderate PET,Moderate Potential
+Ryan International School,Shahdara South,Other,Institutional,19.63,Moderate PET,Moderate Potential
+CGO Complex,South,Other,Public,18.53,Moderate PET,Moderate Potential
+Azadpur Mandi,North,Other,Commercial,17.68,Moderate PET,Moderate Potential
+Chanakyapuri,New Delhi,High,Residential,16.88,Moderate PET,Moderate Potential
+Vikaspuri,West,Middle,Residential,15.34,Moderate PET,Moderate Potential
+Green Park; Hauz Khas,South,Middle,Residential,15.3,Moderate PET,Moderate Potential
+"Rangpuri, Mahipalpur",South West,Low,Residential,14.72,Moderate PET,Moderate Potential
+DAV School,Shahdara North,Other,Institutional,14.04,Moderate PET,Moderate Potential
+Venktesh College,South West,Other,Institutional,11.64,Moderate PET,Moderate Potential
+Mayur Vihar Phase-III,Shahdara South,High,Residential,10.23,Moderate PET,Moderate Potential
+Vasant Kunj,South West,Middle,Residential,9.35,Moderate PET,Moderate Potential
+Millennium Park,Central,Other,Mixed,9.26,Moderate PET,Moderate Potential
+Kamla Nehru Ridge,Central,Other,Mixed,6.67,Low PET,Low Potential
+Shahdara,Shahdara North,Middle,Residential,5.9,Low PET,Low Potential
+Red Fort,Central,Other,Tourist,5.02,Low PET,Low Potential
+Sunder Nagri,Shahdara North,Low,Residential,5.0,Low PET,Low Potential
+Anand Vihar,Shahdara North,High,Residential,3.96,Low PET,Low Potential
+GK-II,South,High,Residential,3.43,Low PET,Low Potential
+Civil Lines,North,High,Residential,2.88,Low PET,Low Potential
+"JJ Colony, Rajendra Park, Nangloi",West,Low,Residential,2.72,Low PET,Low Potential
+Model Town-II,North,Middle,Residential,2.48,Low PET,Low Potential
+Trilokpuri,East,Low,Residential,2.35,Low PET,Low Potential
+Kardampuri,North East,Low,Residential,2.08,Low PET,Low Potential
+Jama Masjid,Central,Other,Tourist,1.87,Low PET,Low Potential
+Ghazipur Vegetable Market,East,Other,Commercial,1.64,Low PET,Low Potential
+Burari Sant Nagar,North,Low,Residential,1.01,Low PET,Low Potential
+Shakarpur,Shahdara North,Middle,Residential,0.95,Low PET,Low Potential

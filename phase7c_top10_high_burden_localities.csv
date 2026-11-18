@@ -1,0 +1,11 @@
+location,zone,income_level,land_use_type,plastic_percent,plastic_burden_score,burden_class
+Kamla Nehru Ridge,Central,Other,Mixed,30.49,100.0,Very High Burden
+Kashmere Gate ISBT,North,Other,Public,30.25,99.15819010873378,Very High Burden
+CBD Karkardooma,Shahdara North,Other,Mixed,22.68,72.60610312171168,High Burden
+National Museum,New Delhi,Other,Tourist,19.51,61.48719747457033,High Burden
+Ryan International School,Shahdara South,Other,Institutional,19.11,60.08418098912662,High Burden
+Lajpat Nagar Central Market,South,Other,Commercial,17.72,55.208698702209745,High Burden
+DAV School,Shahdara North,Other,Institutional,17.24,53.525078919677306,High Burden
+Ajmal Khan Road Market,Central,Other,Commercial,17.1,53.03402314977201,High Burden
+Shakarpur,Shahdara North,Middle,Residential,17.1,53.03402314977201,High Burden
+Burari Sant Nagar,North,Low,Residential,16.57,51.175026306559104,High Burden

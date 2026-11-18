@@ -1,0 +1,11 @@
+location,zone,income_level,land_use_type,pp_percent_of_plastic,pp_class,ecommerce_prevalence,epr_enforcement_priority
+Shahdara,Location,Middle,Residential,31.96,Very High PP,Very High E-Commerce,1
+DAV School,Location,Other,Institutional,16.01,Very High PP,Very High E-Commerce,2
+Vikaspuri,Location,Middle,Residential,10.71,Very High PP,Very High E-Commerce,3
+Chanakyapuri,Location,High,Residential,8.36,High PP,High E-Commerce,4
+GK-II,Location,High,Residential,6.85,High PP,High E-Commerce,5
+Chhattarpur,Location,Low,Residential,6.22,High PP,High E-Commerce,6
+Sunder Nagar,,High,Residential,5.4,High PP,High E-Commerce,7
+Vasant Kunj,Location,Middle,Residential,4.95,Moderate PP,Moderate E-Commerce,8
+Green Park; Hauz Khas,South East Delhi,Middle,Residential,4.62,Moderate PP,Moderate E-Commerce,9
+G.T.B.Nagar,Location,Low,Residential,2.74,Moderate PP,Moderate E-Commerce,10

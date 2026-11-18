@@ -1,0 +1,12 @@
+location,plastic_percent,Local_Morans_I,LISA_P_Value,Cluster_Classification
+Kamla Nagar Market,15.0,2.183,0.002,Strong High-High (Hotspot)
+Madanpur Khadar,5.3,0.949,0.006,Strong Low-Low (Coldspot)
+Dwarka Sector-12,9.27,0.228,0.028,Strong Low-Low (Coldspot)
+Tis Hazari Court,11.53,0.119,0.028,Strong High-High (Hotspot)
+Civil Lines,6.75,-2.157,0.04,Strong Low-High (Spatial Outlier)
+Nizamuddin Railway Station,11.13,-0.06,0.04,Strong High-Low (Spatial Outlier)
+Ajmal Khan Road Market,17.1,0.888,0.066,Marginal High-High (Hotspot)
+Vikaspuri,3.84,1.515,0.078,Marginal Low-Low (Coldspot)
+Roshanpura,4.98,0.66,0.086,Marginal Low-Low (Coldspot)
+Palam,8.12,0.313,0.088,Marginal Low-Low (Coldspot)
+Anand Vihar,4.93,-1.458,0.094,Marginal Low-High (Spatial Outlier)

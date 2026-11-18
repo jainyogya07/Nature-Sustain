@@ -1,0 +1,7 @@
+﻿Metric,Value,Unit,Benchmark,Difference,Evidence source,Interpretation
+Estimated generation,"1,117",TPD,--,--,"DPCC MPR, March and June 2025, Section VIII (DPCC, 2025)",Identical in both months
+Processed,858,TPD,--,--,"DPCC MPR, March and June 2025, Section VIII (DPCC, 2025)",Identical in both months
+Processing gap,259,TPD,--,--,"1,117−858",Arithmetic processing remainder; not disaggregated by resin/fate; not additive to total-MSW gap
+Processing efficiency,76.81,%,85% (operating band),≈8 pp,"858/1,117",Exact quotient of two records; no interval; not a composite index
+"Context only, different denominator: total-MSW gap ≈4,200 TPD on ≈11,862 TPD generated, ≈63% processed (Delhi Economic Survey, 2026)",,,,,,
+Note.,"Two recorded TPD figures from DPCC monthly progress reports, Section VIII (Plastic Waste Management), March 2025 and June 2025 (DPCC, 2025). These city plastic quantities are not taken from Annexure-5, which is the four-plant mixed-waste census. The 76.81% figure is 858/1,117 to two decimals. It is not a statistical estimate and has no confidence interval. TPD = tonnes per day. The 85% figure is the study-defined operating-band reference in Section 4, not a regulatory target. The 259 TPD arithmetic processing remainder is not a documented destination.",,,,,

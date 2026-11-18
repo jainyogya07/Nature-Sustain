@@ -1,0 +1,59 @@
+location,zone,income_level,land_use_type,pvc_percent_of_plastic,pvc_problematic_score,pvc_class
+DAV School,Shahdara North,Other,Institutional,15.43,100.0,Very High Problematic
+Millennium Park,Central,Other,Mixed,9.26,60.01296176279974,High Problematic
+Sunder Nagri,Shahdara North,Low,Residential,4.1,26.571613739468564,Moderate Problematic
+Chhattarpur,South,Low,Residential,3.88,25.145819831497086,Moderate Problematic
+Anand Vihar,Shahdara North,High,Residential,3.67,23.784834737524303,Low Problematic
+Mayur Vihar Phase-III,Shahdara South,High,Residential,3.67,23.784834737524303,Low Problematic
+Chanakyapuri,New Delhi,High,Residential,3.58,23.20155541153597,Low Problematic
+Trilokpuri,East,Low,Residential,3.3,21.38690861957226,Low Problematic
+Red Fort,Central,Other,Tourist,2.97,19.248217757615038,Low Problematic
+Civil Lines,North,High,Residential,2.85,18.47051198963059,Low Problematic
+CGO Complex,South,Other,Public,2.58,16.720674011665587,Low Problematic
+Model Town-II,North,Middle,Residential,2.56,16.591056383668178,Low Problematic
+"JJ Colony, Rajendra Park, Nangloi",West,Low,Residential,2.52,16.33182112767336,Low Problematic
+Sonia Vihar,North East,Low,Residential,2.0,12.961762799740765,Low Problematic
+Kardampuri,North East,Low,Residential,1.99,12.89695398574206,Low Problematic
+Jama Masjid,Central,Other,Tourist,1.79,11.600777705767985,Low Problematic
+Jama Masjid Cycle Market,Central,Middle,Residential,1.79,11.600777705767985,Low Problematic
+Uttam Nagar,West,Low,Residential,1.76,11.406351263771873,Low Problematic
+Shahdara,Shahdara North,Middle,Residential,1.73,11.211924821775762,Low Problematic
+"Rangpuri, Mahipalpur",South West,Low,Residential,1.52,9.850939727802983,Low Problematic
+Jahangirpuri JJ cluster,North,Low,Residential,1.47,9.526895657809462,Low Problematic
+Green Park; Hauz Khas,South,Middle,Residential,1.45,9.397278029812055,Low Problematic
+Ghazipur Vegetable Market,East,Other,Commercial,1.41,9.138042773817238,Low Problematic
+Madhipur,West,Low,Residential,1.4,9.073233959818534,Low Problematic
+Palam,South West,Middle,Mixed,1.37,8.878807517822425,Low Problematic
+G.T.B.Nagar,North,Low,Residential,1.21,7.841866493843162,Low Problematic
+Dwarka Sector-12,Dwarka,High,Residential,1.17,7.582631237848347,Low Problematic
+Venktesh College,South West,Other,Institutional,1.14,7.388204795852235,Low Problematic
+Tis Hazari Court,North,Other,Institutional,1.13,7.3233959818535315,Low Problematic
+Miranda House & Khalsa College,North,Other,Institutional,1.05,6.804925469863902,Low Problematic
+Burari Sant Nagar,North,Low,Residential,1.01,6.5456902138690864,Low Problematic
+Rohini Sector-3,North West,Middle,Residential,0.93,6.027219701879456,Low Problematic
+Peeragarhi,West,High,Residential,0.89,5.7679844458846405,Low Problematic
+Kamla Nagar Market,North,Other,Commercial,0.89,5.7679844458846405,Low Problematic
+Khan Market,New Delhi,Other,Commercial,0.87,5.638366817887232,Low Problematic
+Krishna Nagar Market,Shahdara North,Other,Commercial,0.87,5.638366817887232,Low Problematic
+Shakarpur,Shahdara North,Middle,Residential,0.8,5.184705119896306,Low Problematic
+Ajmal Khan Road Market,Central,Other,Commercial,0.73,4.73104342190538,Low Problematic
+Videocon Cycle Market,Central,Other,Commercial,0.72,4.666234607906675,Low Problematic
+Lajpat Nagar Central Market,South,Other,Commercial,0.64,4.1477640959170445,Low Problematic
+Roshanpura,South West,Low,Residential,0.55,3.5644847699287108,Low Problematic
+Punjabi Bagh,West,High,Residential,0.54,3.4996759559300066,Low Problematic
+Madanpur Khadar,South East,Low,Residential,0.53,3.434867141931303,Low Problematic
+Kamla Nehru Ridge,Central,Other,Mixed,0.0,0.0,No Problematic PVC
+Ryan International School,Shahdara South,Other,Institutional,0.0,0.0,No Problematic PVC
+New Delhi Railway Station,New Delhi,Other,Public,0.0,0.0,No Problematic PVC
+GK-II,South,High,Residential,0.0,0.0,No Problematic PVC
+Nizamuddin Railway Station,South East,Other,Public,0.0,0.0,No Problematic PVC
+Akshardham Temple,Shahdara South,Other,Tourist,0.0,0.0,No Problematic PVC
+Kashmere Gate ISBT,North,Other,Public,0.0,0.0,No Problematic PVC
+Azadpur Mandi,North,Other,Commercial,0.0,0.0,No Problematic PVC
+Okhla Mandi,South,Other,Commercial,0.0,0.0,No Problematic PVC
+National Museum,New Delhi,Other,Tourist,0.0,0.0,No Problematic PVC
+Vasant Kunj,South West,Middle,Residential,0.0,0.0,No Problematic PVC
+R.K.Puram Sector-7,South West,Middle,Residential,0.0,0.0,No Problematic PVC
+Vikaspuri,West,Middle,Residential,0.0,0.0,No Problematic PVC
+Sunder Nagar,South,High,Residential,0.0,0.0,No Problematic PVC
+CBD Karkardooma,Shahdara North,Other,Mixed,0.0,0.0,No Problematic PVC

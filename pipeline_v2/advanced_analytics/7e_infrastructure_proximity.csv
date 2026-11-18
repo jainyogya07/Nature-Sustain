@@ -1,0 +1,58 @@
+locality,zone,plastic_percent,pvc_percent,nearest_wte_facility,distance_to_nearest_wte_km,distance_to_okhla,distance_to_ghazipur,distance_to_bawana,distance_to_tehkhand
+Model Town-II,North,7.95,2.56,Ghazipur,16.31,21.46,16.31,17.03,22.79
+Burari Sant Nagar,North,16.57,1.01,Bawana,14.91,24.82,18.48,14.91,26.22
+Jahangirpuri JJ cluster,North,10.77,1.47,Bawana,14.6,23.85,18.67,14.6,25.16
+GK-II,South,3.21,0.0,Okhla,4.89,4.89,13.69,34.53,5.0
+Vasant Kunj,South West,4.547,0.0,Tehkhand,14.24,14.68,22.42,32.43,14.24
+Chhattarpur,South,11.08,3.88,Tehkhand,14.61,15.45,24.62,36.03,14.61
+Punjabi Bagh,West,6.02,0.54,Bawana,21.5,53.16,44.81,21.5,54.64
+Vikaspuri,West,3.84,0.0,Bawana,20.34,23.31,25.43,20.34,23.73
+Uttam Nagar,West,2.9,1.76,Bawana,20.34,23.31,25.43,20.34,23.73
+Mayur Vihar Phase-III,Shahdara South,4.68,3.67,Ghazipur,2.85,9.39,2.85,35.4,11.03
+Shakarpur,Shahdara North,17.1,0.8,Ghazipur,5.96,9.99,5.96,29.28,11.59
+Trilokpuri,East,5.63,3.3,Ghazipur,3.83,8.18,3.83,32.93,9.89
+Anand Vihar,Shahdara North,4.93,3.67,Ghazipur,3.83,13.67,3.83,29.48,15.37
+Shahdara,Shahdara North,8.47,1.73,Ghazipur,6.29,15.42,6.29,27.09,17.09
+Kardampuri,North East,9.28,1.99,Ghazipur,7.76,17.27,7.76,26.13,18.94
+Sunder Nagri,Shahdara North,4.3,4.1,Ghazipur,6.56,17.58,6.56,29.01,19.29
+Sonia Vihar,North East,10.59,2.0,Ghazipur,11.22,19.39,11.22,22.39,20.99
+Sunder Nagar,South,10.18,0.0,Okhla,9.36,9.36,9.56,28.45,10.65
+Green Park; Hauz Khas,South,8.59,1.45,Okhla,8.47,8.47,14.94,31.32,8.75
+Madanpur Khadar,South East,5.3,0.53,Okhla,1.76,1.76,10.53,38.31,3.05
+Civil Lines,North,6.75,2.85,Ghazipur,11.72,16.72,11.72,21.92,18.14
+Jama Masjid Cycle Market,Central,10.19,1.79,Ghazipur,9.55,14.41,9.55,24.37,15.87
+G.T.B.Nagar,North,10.72,1.21,Ghazipur,13.99,19.08,13.99,19.48,20.45
+Chanakyapuri,New Delhi,13.33,3.58,Okhla,12.6,12.6,14.3,25.67,13.45
+R.K.Puram Sector-7,South West,3.24,0.0,Okhla,12.15,12.15,16.94,28.23,12.49
+"Rangpuri, Mahipalpur",South West,8.09,1.52,Tehkhand,16.02,16.26,22.93,30.25,16.02
+Peeragarhi,West,13.89,0.89,Bawana,15.5,23.6,22.63,15.5,24.44
+Rohini Sector-3,North West,12.74,0.93,Bawana,12.04,26.17,23.67,12.04,27.16
+Madhipur,West,8.77,1.4,Bawana,15.49,23.63,22.67,15.49,24.47
+Dwarka Sector-12,Dwarka,9.27,1.17,Bawana,24.04,25.15,29.04,24.04,25.24
+Palam,South West,8.12,1.37,Okhla,22.01,22.01,25.83,24.04,22.17
+Roshanpura,South West,4.98,0.55,Bawana,23.06,30.34,33.66,23.06,30.45
+Red Fort,Central,6.41,2.97,Ghazipur,9.55,14.41,9.55,24.37,15.87
+Jama Masjid,Central,11.23,1.79,Ghazipur,9.19,12.68,9.19,25.67,14.1
+Akshardham Temple,Shahdara South,5.62,0.0,Ghazipur,6.51,8.16,6.51,30.6,9.75
+Millennium Park,Central,2.15,9.26,Okhla,6.95,6.95,8.83,30.91,8.32
+National Museum,New Delhi,19.51,0.0,Okhla,10.3,10.3,11.12,27.46,11.43
+Ghazipur Vegetable Market,East,11.41,1.41,Ghazipur,1.37,10.39,1.37,32.98,12.1
+Okhla Mandi,South,1.98,0.0,Okhla,4.05,4.05,11.23,33.87,5.0
+Azadpur Mandi,North,9.81,0.0,Bawana,15.83,22.24,17.73,15.83,23.51
+Lajpat Nagar Central Market,South,17.72,0.64,Okhla,6.48,6.48,11.21,31.42,7.45
+Khan Market,New Delhi,14.0,0.87,Okhla,8.93,8.93,11.73,28.97,9.91
+Kamla Nagar Market,North,15.0,0.89,Ghazipur,13.23,17.42,13.23,20.75,18.75
+Krishna Nagar Market,Shahdara North,14.84,0.87,Ghazipur,5.09,13.57,5.09,28.15,15.24
+Ajmal Khan Road Market,Central,17.1,0.73,Ghazipur,14.29,16.7,14.29,21.06,17.87
+Videocon Cycle Market,Central,16.21,0.72,Ghazipur,12.43,14.24,12.43,23.52,15.45
+Kashmere Gate ISBT,North,30.25,0.0,Ghazipur,11.72,16.72,11.72,21.92,18.14
+New Delhi Railway Station,New Delhi,13.23,0.0,Ghazipur,10.81,13.38,10.81,24.57,14.7
+Nizamuddin Railway Station,South East,11.13,0.0,Okhla,6.95,6.95,8.83,30.91,8.32
+CGO Complex,South,10.37,2.58,Okhla,7.84,7.84,10.25,29.91,9.0
+Tis Hazari Court,North,11.53,1.13,Ghazipur,12.7,15.8,12.7,22.1,17.08
+Miranda House & Khalsa College,North,11.79,1.05,Ghazipur,13.66,19.64,13.66,19.58,21.08
+Venktesh College,South West,13.06,1.14,Okhla,14.37,14.37,17.89,25.89,14.83
+DAV School,Shahdara North,17.24,15.43,Ghazipur,3.83,13.67,3.83,29.48,15.37
+Ryan International School,Shahdara South,19.11,0.0,Ghazipur,2.85,9.39,2.85,35.4,11.03
+Kamla Nehru Ridge,Central,30.49,0.0,Ghazipur,13.23,17.42,13.23,20.75,18.75
+CBD Karkardooma,Shahdara North,22.68,0.0,Ghazipur,3.83,13.67,3.83,29.48,15.37

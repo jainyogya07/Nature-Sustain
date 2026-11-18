@@ -1,0 +1,5 @@
+benchmark_pct,label,combined_headroom_tpd
+80,Conservative,528.201
+85,Baseline,694.051
+90,Ambitious,859.9010000000001
+100,Theoretical Max,1191.601

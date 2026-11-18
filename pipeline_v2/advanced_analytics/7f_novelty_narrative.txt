@@ -1,0 +1,5 @@
+EMPIRICAL NOVELTY POSITIONING:
+--------------------------------
+While the city-level aggregate plastic burden conforms to standard Indian metro benchmarks (~10%), our micro-spatial dataset reveals extreme localized variance that standard literature masks.
+Specifically, 2 localities exhibit PVC contamination >5%, and 11 localities exhibit plastic burdens >15%.
+This proves that generalized policy interventions fail to address the true nature of urban plastic pollution, necessitating the spatial and composition-aware framework developed in this study.

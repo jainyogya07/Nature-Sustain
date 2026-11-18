@@ -1,0 +1,12 @@
+location,zone,plastic_percent,distance_to_bawana,best_alternative,extra_km_cost,financial_cost_inr_per_tonne
+Dwarka Sector-12,Dwarka,9.27,24.04,Tehkhand,1.2,13.33
+Azadpur Mandi,North,9.81,15.83,Ghazipur,1.9,21.11
+Vikaspuri,West,3.84,20.34,Tehkhand,3.39,37.67
+Uttam Nagar,West,2.9,20.34,Tehkhand,3.39,37.67
+Burari Sant Nagar,North,16.57,14.91,Ghazipur,3.57,39.67
+Jahangirpuri JJ cluster,North,10.77,14.6,Ghazipur,4.07,45.22
+Peeragarhi,West,13.89,15.5,Ghazipur,7.13,79.22
+Madhipur,West,8.77,15.49,Ghazipur,7.18,79.78
+Roshanpura,South West,4.98,23.06,Tehkhand,7.39,82.11
+Rohini Sector-3,North West,12.74,12.04,Ghazipur,11.63,129.22
+Punjabi Bagh,West,6.02,21.5,Ghazipur,23.31,259.0

@@ -1,0 +1,41 @@
+facility,benchmark_pct,capacity_tpd,utilization_pct,current_processing_tpd,headroom_to_benchmark_tpd,classification
+05 Bio-Methanation / Bio-Gas Plants,80,7.0,35.7,2.4990000000000006,3.101,Underutilized
+05 Community Composting,80,5.0,100.0,5.0,0.0,Over-Stressed
+176 Material Recovery Facilities (MRFs),80,322.0,95.0,305.9,0.0,Over-Stressed
+20 Decentralized Composters,80,20.0,100.0,20.0,0.0,Over-Stressed
+27 Organic Waste Convertors (OWCs),80,10.0,50.0,5.0,3.0,Underutilized
+Home Composting,80,1.0,100.0,1.0,0.0,Over-Stressed
+Integrated MSW Facility at Bawana,80,2000.0,108.4,2168.0,0.0,Over-Stressed
+Waste to Energy Plant at Ghazipur,80,1300.0,58.3,757.9,282.1,Underutilized
+Waste to Energy Plant at Okhla,80,1950.0,95.8,1868.1,0.0,Over-Stressed
+Waste to Energy Plant at Tehkhand,80,2000.0,68.0,1360.0,240.0,Underutilized
+05 Bio-Methanation / Bio-Gas Plants,85,7.0,35.7,2.4990000000000006,3.4509999999999996,Underutilized
+05 Community Composting,85,5.0,100.0,5.0,0.0,Over-Stressed
+176 Material Recovery Facilities (MRFs),85,322.0,95.0,305.9,0.0,Over-Stressed
+20 Decentralized Composters,85,20.0,100.0,20.0,0.0,Over-Stressed
+27 Organic Waste Convertors (OWCs),85,10.0,50.0,5.0,3.5,Underutilized
+Home Composting,85,1.0,100.0,1.0,0.0,Over-Stressed
+Integrated MSW Facility at Bawana,85,2000.0,108.4,2168.0,0.0,Over-Stressed
+Waste to Energy Plant at Ghazipur,85,1300.0,58.3,757.9,347.1,Underutilized
+Waste to Energy Plant at Okhla,85,1950.0,95.8,1868.1,0.0,Over-Stressed
+Waste to Energy Plant at Tehkhand,85,2000.0,68.0,1360.0,340.0,Underutilized
+05 Bio-Methanation / Bio-Gas Plants,90,7.0,35.7,2.4990000000000006,3.8009999999999993,Underutilized
+05 Community Composting,90,5.0,100.0,5.0,0.0,Over-Stressed
+176 Material Recovery Facilities (MRFs),90,322.0,95.0,305.9,0.0,Over-Stressed
+20 Decentralized Composters,90,20.0,100.0,20.0,0.0,Over-Stressed
+27 Organic Waste Convertors (OWCs),90,10.0,50.0,5.0,4.0,Underutilized
+Home Composting,90,1.0,100.0,1.0,0.0,Over-Stressed
+Integrated MSW Facility at Bawana,90,2000.0,108.4,2168.0,0.0,Over-Stressed
+Waste to Energy Plant at Ghazipur,90,1300.0,58.3,757.9,412.1,Underutilized
+Waste to Energy Plant at Okhla,90,1950.0,95.8,1868.1,0.0,Over-Stressed
+Waste to Energy Plant at Tehkhand,90,2000.0,68.0,1360.0,440.0,Underutilized
+05 Bio-Methanation / Bio-Gas Plants,100,7.0,35.7,2.4990000000000006,4.5009999999999994,Underutilized
+05 Community Composting,100,5.0,100.0,5.0,0.0,High Utilization
+176 Material Recovery Facilities (MRFs),100,322.0,95.0,305.9,16.100000000000023,Optimal
+20 Decentralized Composters,100,20.0,100.0,20.0,0.0,High Utilization
+27 Organic Waste Convertors (OWCs),100,10.0,50.0,5.0,5.0,Underutilized
+Home Composting,100,1.0,100.0,1.0,0.0,High Utilization
+Integrated MSW Facility at Bawana,100,2000.0,108.4,2168.0,0.0,Over-Stressed
+Waste to Energy Plant at Ghazipur,100,1300.0,58.3,757.9,542.1,Underutilized
+Waste to Energy Plant at Okhla,100,1950.0,95.8,1868.1,81.90000000000009,Optimal
+Waste to Energy Plant at Tehkhand,100,2000.0,68.0,1360.0,640.0,Underutilized

@@ -1,0 +1,73 @@
+test_id,scenario_id,description,specification_type
+7D.1,weight_equal,Equal weighting (baseline),primary
+7D.1,weight_plastic_dominant,Plastic-dominant (volume priority),sensitivity
+7D.1,weight_pvc_dominant,PVC-dominant (toxicity priority),sensitivity
+7D.1,weight_perturb_plastic,+20% perturbation (plastic),sensitivity
+7D.1,weight_perturb_pvc,+20% perturbation (PVC),sensitivity
+7D.1,weight_pca,"PCA-weighted (PC1: plastic=0.500, PVC=0.500)",exploratory
+7D.3,norm_minmax,Normalization: minmax,sensitivity
+7D.3,norm_zscore,Normalization: zscore,sensitivity
+7D.3,norm_percentile,Normalization: percentile,sensitivity
+7D.4,loo_01,Leave-one-out: Kamla Nehru Ridge,sensitivity
+7D.4,loo_02,Leave-one-out: Kashmere Gate ISBT,sensitivity
+7D.4,loo_03,Leave-one-out: CBD Karkardooma,sensitivity
+7D.4,loo_04,Leave-one-out: National Museum,sensitivity
+7D.4,loo_05,Leave-one-out: Ryan International School,sensitivity
+7D.4,loo_06,Leave-one-out: Lajpat Nagar Central Market,sensitivity
+7D.4,loo_07,Leave-one-out: DAV School,sensitivity
+7D.4,loo_08,Leave-one-out: Ajmal Khan Road Market,sensitivity
+7D.4,loo_09,Leave-one-out: Shakarpur,sensitivity
+7D.4,loo_10,Leave-one-out: Burari Sant Nagar,sensitivity
+7D.4,loo_11,Leave-one-out: Videocon Cycle Market,sensitivity
+7D.4,loo_12,Leave-one-out: Kamla Nagar Market,sensitivity
+7D.4,loo_13,Leave-one-out: Krishna Nagar Market,sensitivity
+7D.4,loo_14,Leave-one-out: Khan Market,sensitivity
+7D.4,loo_15,Leave-one-out: Peeragarhi,sensitivity
+7D.4,loo_16,Leave-one-out: Chanakyapuri,sensitivity
+7D.4,loo_17,Leave-one-out: New Delhi Railway Station,sensitivity
+7D.4,loo_18,Leave-one-out: Venktesh College,sensitivity
+7D.4,loo_19,Leave-one-out: Rohini Sector-3,sensitivity
+7D.4,loo_20,Leave-one-out: Miranda House & Khalsa College,sensitivity
+7D.4,loo_21,Leave-one-out: Tis Hazari Court,sensitivity
+7D.4,loo_22,Leave-one-out: Ghazipur Vegetable Market,sensitivity
+7D.4,loo_23,Leave-one-out: Jama Masjid,sensitivity
+7D.4,loo_24,Leave-one-out: Nizamuddin Railway Station,sensitivity
+7D.4,loo_25,Leave-one-out: Chhattarpur,sensitivity
+7D.4,loo_26,Leave-one-out: Jahangirpuri JJ cluster,sensitivity
+7D.4,loo_27,Leave-one-out: G.T.B.Nagar,sensitivity
+7D.4,loo_28,Leave-one-out: Sonia Vihar,sensitivity
+7D.4,loo_29,Leave-one-out: CGO Complex,sensitivity
+7D.4,loo_30,Leave-one-out: Jama Masjid Cycle Market,sensitivity
+7D.4,loo_31,Leave-one-out: Sunder Nagar,sensitivity
+7D.4,loo_32,Leave-one-out: Azadpur Mandi,sensitivity
+7D.4,loo_33,Leave-one-out: Kardampuri,sensitivity
+7D.4,loo_34,Leave-one-out: Dwarka Sector-12,sensitivity
+7D.4,loo_35,Leave-one-out: Madhipur,sensitivity
+7D.4,loo_36,Leave-one-out: Green Park; Hauz Khas,sensitivity
+7D.4,loo_37,Leave-one-out: Shahdara,sensitivity
+7D.4,loo_38,Leave-one-out: Palam,sensitivity
+7D.4,loo_39,"Leave-one-out: Rangpuri, Mahipalpur",sensitivity
+7D.4,loo_40,Leave-one-out: Model Town-II,sensitivity
+7D.4,loo_41,"Leave-one-out: JJ Colony, Rajendra Park, Nangloi",sensitivity
+7D.4,loo_42,Leave-one-out: Civil Lines,sensitivity
+7D.4,loo_43,Leave-one-out: Red Fort,sensitivity
+7D.4,loo_44,Leave-one-out: Punjabi Bagh,sensitivity
+7D.4,loo_45,Leave-one-out: Trilokpuri,sensitivity
+7D.4,loo_46,Leave-one-out: Akshardham Temple,sensitivity
+7D.4,loo_47,Leave-one-out: Madanpur Khadar,sensitivity
+7D.4,loo_48,Leave-one-out: Roshanpura,sensitivity
+7D.4,loo_49,Leave-one-out: Anand Vihar,sensitivity
+7D.4,loo_50,Leave-one-out: Mayur Vihar Phase-III,sensitivity
+7D.4,loo_51,Leave-one-out: Vasant Kunj,sensitivity
+7D.4,loo_52,Leave-one-out: Sunder Nagri,sensitivity
+7D.4,loo_53,Leave-one-out: Vikaspuri,sensitivity
+7D.4,loo_54,Leave-one-out: R.K.Puram Sector-7,sensitivity
+7D.4,loo_55,Leave-one-out: GK-II,sensitivity
+7D.4,loo_56,Leave-one-out: Uttam Nagar,sensitivity
+7D.4,loo_57,Leave-one-out: Millennium Park,sensitivity
+7D.4,loo_58,Leave-one-out: Okhla Mandi,sensitivity
+7D.5,missing_n55_vs_n58,N=55 (complete) vs N=58 (available-case) plastic burden,sensitivity
+7D.6,facility_bench_80,Facility benchmark: 80% utilization,sensitivity
+7D.6,facility_bench_85,Facility benchmark: 85% utilization,primary
+7D.6,facility_bench_90,Facility benchmark: 90% utilization,sensitivity
+7D.6,facility_bench_100,Facility benchmark: 100% utilization,sensitivity

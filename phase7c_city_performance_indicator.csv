@@ -1,0 +1,7 @@
+metric,value,unit,interpretation
+Plastic Processing Efficiency,76.81289167412713,percent,76.81% of generated plastic is processed
+Processing Gap (Percent),23.18710832587287,percent,23.19% of plastic unprocessed
+Target (85%),85.0,percent,Recommended target for improved circularity
+Gap to Target,8.18710832587287,percentage_points,8.19 pp improvement needed to reach 85%
+Target (95% Ambitious),95.0,percent,Ambitious target for high circularity
+Gap to Ambitious,18.18710832587287,percentage_points,18.19 pp improvement for 95% target

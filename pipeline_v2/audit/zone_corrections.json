@@ -1,0 +1,326 @@
+[
+  {
+    "location": "Model Town-II",
+    "old_zone": "Location",
+    "new_zone": "North",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Burari Sant Nagar",
+    "old_zone": "",
+    "new_zone": "North",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "GK-II",
+    "old_zone": "Location",
+    "new_zone": "South",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Vasant Kunj",
+    "old_zone": "Location",
+    "new_zone": "South West",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Chhattarpur",
+    "old_zone": "Location",
+    "new_zone": "South",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Punjabi Bagh",
+    "old_zone": "Location",
+    "new_zone": "West",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Vikaspuri",
+    "old_zone": "Location",
+    "new_zone": "West",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Uttam Nagar",
+    "old_zone": "Location",
+    "new_zone": "West",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Mayur Vihar Phase-III",
+    "old_zone": "Location",
+    "new_zone": "Shahdara South",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Shakarpur",
+    "old_zone": "Location",
+    "new_zone": "Shahdara North",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Trilokpuri",
+    "old_zone": "Location",
+    "new_zone": "East",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Anand Vihar",
+    "old_zone": "Location",
+    "new_zone": "Shahdara North",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Shahdara",
+    "old_zone": "Location",
+    "new_zone": "Shahdara North",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Kardampuri",
+    "old_zone": "Location",
+    "new_zone": "North East",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Sunder Nagri",
+    "old_zone": "Location",
+    "new_zone": "Shahdara North",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Sonia Vihar",
+    "old_zone": "Location",
+    "new_zone": "North East",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Sunder Nagar",
+    "old_zone": "",
+    "new_zone": "South",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Green Park; Hauz Khas",
+    "old_zone": "South East Delhi",
+    "new_zone": "South",
+    "fix_type": "zone_corrected"
+  },
+  {
+    "location": "Madanpur Khadar",
+    "old_zone": "Location",
+    "new_zone": "South East",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Civil Lines",
+    "old_zone": "",
+    "new_zone": "North",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "G.T.B.Nagar",
+    "old_zone": "Location",
+    "new_zone": "North",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Chanakyapuri",
+    "old_zone": "Location",
+    "new_zone": "New Delhi",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "R.K.Puram Sector-7",
+    "old_zone": "Location",
+    "new_zone": "South West",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Rangpuri, Mahipalpur",
+    "old_zone": "Location",
+    "new_zone": "South West",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Peeragarhi",
+    "old_zone": "Location",
+    "new_zone": "West",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Rohini Sector-3",
+    "old_zone": "Location",
+    "new_zone": "North West",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Madhipur",
+    "old_zone": "",
+    "new_zone": "West",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "JJ Colony, Rajendra Park, Nangloi",
+    "old_zone": "Location",
+    "new_zone": "West",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Dwarka Sector-12",
+    "old_zone": "Location",
+    "new_zone": "Dwarka",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Palam",
+    "old_zone": "Location",
+    "new_zone": "South West",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Roshanpura",
+    "old_zone": "Tourist Spot",
+    "new_zone": "South West",
+    "fix_type": "zone_corrected"
+  },
+  {
+    "location": "Red Fort",
+    "old_zone": "Location",
+    "new_zone": "Central",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Jama Masjid",
+    "old_zone": "Location",
+    "new_zone": "Central",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Akshardham Temple",
+    "old_zone": "",
+    "new_zone": "Shahdara South",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Millennium Park",
+    "old_zone": "Location",
+    "new_zone": "Central",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "National Museum",
+    "old_zone": "Areas Description",
+    "new_zone": "New Delhi",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Okhla Mandi",
+    "old_zone": "Location",
+    "new_zone": "South",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Azadpur Mandi",
+    "old_zone": "",
+    "new_zone": "North",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Lajpat Nagar Central Market",
+    "old_zone": "South East",
+    "new_zone": "South",
+    "fix_type": "zone_corrected"
+  },
+  {
+    "location": "Khan Market",
+    "old_zone": "Location",
+    "new_zone": "New Delhi",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Kamla Nagar Market",
+    "old_zone": "Location",
+    "new_zone": "North",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Krishna Nagar Market",
+    "old_zone": "",
+    "new_zone": "Shahdara North",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Ajmal Khan Road Market",
+    "old_zone": "Karol Bagh",
+    "new_zone": "Central",
+    "fix_type": "zone_corrected"
+  },
+  {
+    "location": "Videocon Cycle Market",
+    "old_zone": "Karol Bagh",
+    "new_zone": "Central",
+    "fix_type": "zone_corrected"
+  },
+  {
+    "location": "Kashmere Gate ISBT",
+    "old_zone": "",
+    "new_zone": "North",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Nizamuddin Railway Station",
+    "old_zone": "South",
+    "new_zone": "South East",
+    "fix_type": "zone_corrected"
+  },
+  {
+    "location": "CGO Complex",
+    "old_zone": "Location",
+    "new_zone": "South",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Tis Hazari Court",
+    "old_zone": "Location",
+    "new_zone": "North",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Miranda House & Khalsa College",
+    "old_zone": "Location",
+    "new_zone": "North",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Venktesh College",
+    "old_zone": "Location",
+    "new_zone": "South West",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "DAV School",
+    "old_zone": "Location",
+    "new_zone": "Shahdara North",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Ryan International School",
+    "old_zone": "Table-70",
+    "new_zone": "Shahdara South",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "Kamla Nehru Ridge",
+    "old_zone": "Location",
+    "new_zone": "Central",
+    "fix_type": "pdf_artefact_replaced"
+  },
+  {
+    "location": "CBD Karkardooma",
+    "old_zone": "",
+    "new_zone": "Shahdara North",
+    "fix_type": "pdf_artefact_replaced"
+  }
+]

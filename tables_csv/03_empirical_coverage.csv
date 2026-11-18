@@ -1,0 +1,12 @@
+﻿Variable,Obs. level,N,Mean,SD,Min,Max,Unit,Data source,Analytical role
+Sampled localities,Locality,58,--,--,--,--,count,Locality composition file,"Complete-case frame, not a census"
+Complete resin cases,Locality,58,--,--,--,--,count,Locality composition file,Basis for composition analysis
+Small-sample flag (<10 kg),Locality,4,--,--,--,--,count,Field sample mass,"Ridge, DAV School, CBD Karkardooma, Ryan International; retained, not dropped"
+Plastic %,Locality,58,10.82,6.10,1.98 (Okhla Mandi),30.49 (Kamla Nehru Ridge),%,Locality composition file,Basis for burden score
+PET %,Locality,58,23.60,20.27,0.95,100.00 (Akshardham Temple),%,Locality composition file,Descriptive composition indicator
+PP %,Locality,58,2.79,6.54,0.00,34.67 (Kamla Nehru Ridge),%,Locality composition file,Descriptive composition indicator
+HDPE/LDPE %,Locality,58,53.24,24.49,0.00,95.28 (Shakarpur),%,Locality composition file,Descriptive composition indicator
+PS %,Locality,58,4.92,6.69,0.00,36.45 (Ryan International),%,Locality composition file,Descriptive composition indicator
+PVC %,Locality,58,1.65,2.41,0.00,15.43 (DAV School),%,Locality composition file,Scored problematic-material indicator
+Others %,Locality,58,13.80,13.17,0.00,45.63 (Chanakyapuri),%,Locality composition file,Residual descriptive category
+Note.,"Burden score is plastic % divided by the sample maximum (Kamla Nehru Ridge = 30.49% = 1.000). It is a relative index inside this N=58 frame, not an absolute environmental-risk score. PET and PP are descriptive composition indicators; PVC is a scored problematic-material indicator. Four sites have sample mass below 10 kg and are flagged in the text. The 58 names are the complete-resin cases in the locality composition file, not a probability sample of Delhi NCT.",,,,,,,,

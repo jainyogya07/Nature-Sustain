@@ -1,0 +1,11 @@
+location,land_use_type,plastic_percent,pvc_percent_of_plastic,treatability_score,policy_priority_index
+DAV School,Institutional,17.24,15.43,3,2.087405706789111
+Kamla Nehru Ridge,Mixed,30.49,0.0,2,1.4
+Kashmere Gate ISBT,Public,30.25,0.0,2,1.3889799934404723
+Ryan International School,Institutional,19.11,0.0,3,1.3162020334535913
+Lajpat Nagar Central Market,Commercial,17.72,0.64,3,1.2577956033309479
+Ajmal Khan Road Market,Commercial,17.1,0.73,3,1.2203425918466728
+Videocon Cycle Market,Commercial,16.21,0.72,3,1.1584605260333118
+Kamla Nagar Market,Commercial,15.0,0.89,3,1.085037474968685
+Krishna Nagar Market,Commercial,14.84,0.87,3,1.0728509097571806
+CBD Karkardooma,Mixed,22.68,0.0,2,1.041390619875369

@@ -1,0 +1,5 @@
+Metric,Context,H_Statistic,Epsilon_Sq (Effect Size),Raw_P,FDR_Adjusted_P,Interpretation
+plastic_percent,income_level,13.998,0.208,0.0029,0.0116,Significant Association
+plastic_percent,land_use_type,14.827,0.193,0.0111,0.0223,Significant Association
+pvc_percent_of_plastic,income_level,7.297,0.081,0.063,0.084,No Significant Association
+pvc_percent_of_plastic,land_use_type,6.525,0.03,0.2584,0.2584,No Significant Association

@@ -1,0 +1,8 @@
+,plastic_percent,pet_percent_of_plastic,hdpe_ldpe_percent_of_plastic,pvc_percent_of_plastic,pp_percent_of_plastic,ps_percent_of_plastic,distance_to_nearest_wte_km
+plastic_percent,1.0,0.172,-0.306,-0.221,0.106,0.04,-0.045
+pet_percent_of_plastic,0.172,1.0,-0.766,-0.506,0.036,-0.19,0.161
+hdpe_ldpe_percent_of_plastic,-0.306,-0.766,1.0,0.565,-0.315,-0.062,-0.151
+pvc_percent_of_plastic,-0.221,-0.506,0.565,1.0,-0.074,-0.136,-0.059
+pp_percent_of_plastic,0.106,0.036,-0.315,-0.074,1.0,0.223,0.307
+ps_percent_of_plastic,0.04,-0.19,-0.062,-0.136,0.223,1.0,0.072
+distance_to_nearest_wte_km,-0.045,0.161,-0.151,-0.059,0.307,0.072,1.0

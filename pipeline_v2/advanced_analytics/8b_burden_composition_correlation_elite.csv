@@ -1,0 +1,6 @@
+Polymer,Spearman_Rho,Raw_P,FDR_Adjusted_P,Interpretation
+pet,0.164,0.2222,0.3704,Insignificant Correlation
+hdpe_ldpe,-0.302,0.0225,0.1127,Insignificant Correlation
+pvc,-0.213,0.1117,0.2793,Insignificant Correlation
+pp,0.091,0.4993,0.6241,Insignificant Correlation
+ps,0.038,0.779,0.779,Insignificant Correlation

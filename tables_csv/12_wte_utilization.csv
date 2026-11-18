@@ -1,0 +1,7 @@
+﻿Facility,Designed capacity,Processing,Util. %,Classification,Mixed-waste headroom to 85%,Operational interpretation
+Ghazipur,"1,300",757.3,58.3,Underutilized,347.7 TPD,"Direction matches reported 108-day FY2025-26 shutdown (Hindustan Times, 2026)"
+Tehkhand,"2,000","1,359.3",68.0,Underutilized,340.7 TPD,"CPCB affidavit flags effluent-treatment lapses (Hindustan Times, 2026)"
+Okhla,"1,950","1,867.9",95.8,High Utilization,--,"Not over-stressed; only plant meeting all monitored CPCB norms (Hindustan Times, 2026)"
+Bawana,"2,000","2,167.5",108.4,Over-Stressed,--,Above designed capacity; CPCB affidavit flags dioxin/furan exceedances
+Utilization range = 50.1 pp (heterogeneity metric); CV = 28.3%; combined Ghazipur+Tehkhand mixed-waste throughput headroom to 85% = 688.4 TPD,,,,,,
+Note.,"Bands: <85% Underutilized; 85–95% Optimal; 95–100% High Utilization (conditionally admissible, not slack); >100% Over-Stressed. Source: DPCC (2025), Annexure-5 (facility mixed-waste census snapshot). Headroom is mixed-waste throughput to the 85% operating band, not plastic-only capacity. External reports are directional context.",,,,,

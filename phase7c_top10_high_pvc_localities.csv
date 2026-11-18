@@ -1,0 +1,11 @@
+location,zone,income_level,land_use_type,pvc_percent_of_plastic,pvc_problematic_score,pvc_class
+DAV School,Shahdara North,Other,Institutional,15.43,100.0,Very High Problematic
+Millennium Park,Central,Other,Mixed,9.26,60.01296176279974,High Problematic
+Sunder Nagri,Shahdara North,Low,Residential,4.1,26.571613739468564,Moderate Problematic
+Chhattarpur,South,Low,Residential,3.88,25.145819831497086,Moderate Problematic
+Anand Vihar,Shahdara North,High,Residential,3.67,23.784834737524303,Low Problematic
+Mayur Vihar Phase-III,Shahdara South,High,Residential,3.67,23.784834737524303,Low Problematic
+Chanakyapuri,New Delhi,High,Residential,3.58,23.20155541153597,Low Problematic
+Trilokpuri,East,Low,Residential,3.3,21.38690861957226,Low Problematic
+Red Fort,Central,Other,Tourist,2.97,19.248217757615038,Low Problematic
+Civil Lines,North,High,Residential,2.85,18.47051198963059,Low Problematic

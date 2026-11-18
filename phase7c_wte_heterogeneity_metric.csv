@@ -1,0 +1,9 @@
+metric,value,unit,interpretation
+Utilization Range,50.10000000000001,percentage_points,Ghazipur 58.3% to Bawana 108.4%
+Utilization SD,23.406035546414092,percentage_points,High variability across 4 facilities
+Mean Utilization,82.625,percent,System-wide average (not target)
+Coefficient of Variation,0.28328030918504193,ratio,28.3% relative variability (high)
+Optimal Target,85-95,percent,Recommended utilization range
+Facilities in Optimal Range,0,count,Only 0 facilities optimal
+Facilities Underutilized,2,count,"Ghazipur 58.3%, Tehkhand 68.0%"
+Facilities Over-Stressed,1,count,Bawana 108.4%

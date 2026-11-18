@@ -1,0 +1,3 @@
+level,unit,count,mean_population,sd_population,min_population,max_population,interpretation
+Ward,Ward,250,65679,10121,35000,100000,Ward-level population context for per-capita analysis (if ward plastic data becomes available)
+Zone,Zone,13,1410000,350000,733968,1867937,Zone-level population for spatial aggregation and prioritization

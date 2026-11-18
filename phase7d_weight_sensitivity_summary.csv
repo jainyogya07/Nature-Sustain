@@ -1,0 +1,6 @@
+scenario,specification_type,description,plastic_weight,pvc_weight,spearman_rho_vs_baseline,top10_overlap,top20_overlap,mean_rank_displacement
+plastic_dominant,sensitivity,Plastic-dominant (volume priority),0.7,0.3,0.9217447476083548,8,18,4.068965517241379
+pvc_dominant,sensitivity,PVC-dominant (toxicity priority),0.3,0.7,0.8346304100402967,6,14,6.482758620689655
+perturb_plastic,sensitivity,+20% perturbation (plastic),0.6,0.4,0.968747116183211,8,19,2.7586206896551726
+perturb_pvc,sensitivity,+20% perturbation (PVC),0.4,0.6,0.9708388446276419,8,20,2.413793103448276
+pca,exploratory,"PCA-weighted (PC1: plastic=0.500, PVC=0.500)",0.5,0.5,1.0,10,20,0.0

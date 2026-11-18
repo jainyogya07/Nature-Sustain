@@ -1,0 +1,5 @@
+metric,value,interpretation
+N complete cases,58.0,Complete resin data used
+N excluded cases,0.0,Missing PP/PS/Others
+Top-10 overlap,10.0,Identical
+Spearman ρ,1.0,Perfect
